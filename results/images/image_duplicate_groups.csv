@@ -1,0 +1,1 @@
+id,breed_id,species_id,breed_species_id,official_split,species,breed,image_exists,image_ok,width,height,image_sha256,xml_exists,bbox_ok,bbox_count,xmin_xml,ymin_xml,xmax_xml,ymax_xml,xml_width,xml_height,dimension_match,error

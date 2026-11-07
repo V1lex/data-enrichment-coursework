@@ -1,0 +1,41 @@
+id,text,label,source,line,normalized_text,chars,words
+amazon_0019,Works great!.,1,amazon,19,works great!.,13,2
+amazon_0057,VERY DISAPPOINTED.,0,amazon,57,very disappointed.,18,2
+amazon_0144,very disappointed.,0,amazon,144,very disappointed.,18,2
+amazon_0180,"If you like a loud buzzing to override all your conversations, then this phone is for you!",0,amazon,180,"if you like a loud buzzing to override all your conversations, then this phone is for you!",90,17
+amazon_0181,Don't buy this product.,0,amazon,181,don't buy this product.,23,4
+amazon_0188,Great phone!.,1,amazon,188,great phone!.,13,2
+amazon_0263,Works great.,1,amazon,263,works great.,12,2
+amazon_0286,Great phone!.,1,amazon,286,great phone!.,13,2
+amazon_0291,Great Phone.,1,amazon,291,great phone.,12,2
+amazon_0338,Very disappointing.,0,amazon,338,very disappointing.,19,2
+amazon_0393,This is a great deal.,1,amazon,393,this is a great deal.,21,5
+amazon_0403,Excellent product for the price.,1,amazon,403,excellent product for the price.,32,5
+amazon_0408,Works great.,1,amazon,408,works great.,12,2
+amazon_0447,Does not fit.,0,amazon,447,does not fit.,13,3
+amazon_0525,Works great!.,1,amazon,525,works great!.,13,2
+amazon_0544,Don't buy this product.,0,amazon,544,don't buy this product.,23,4
+amazon_0569,Great Product.,1,amazon,569,great product.,14,2
+amazon_0648,Great phone.,1,amazon,648,great phone.,12,2
+amazon_0745,"If you like a loud buzzing to override all your conversations, then this phone is for you!",0,amazon,745,"if you like a loud buzzing to override all your conversations, then this phone is for you!",90,17
+amazon_0749,Does not fit.,0,amazon,749,does not fit.,13,3
+amazon_0769,Great product.,1,amazon,769,great product.,14,2
+amazon_0779,This is a great deal.,1,amazon,779,this is a great deal.,21,5
+amazon_0793,Great Phone.,1,amazon,793,great phone.,12,2
+amazon_0893,Excellent product for the price.,1,amazon,893,excellent product for the price.,32,5
+amazon_0897,Great phone.,1,amazon,897,great phone.,12,2
+yelp_0335,I love this place.,1,yelp,335,i love this place.,18,4
+yelp_0381,I won't be back.,0,yelp,381,i won't be back.,16,4
+yelp_0384,The food was terrible.,0,yelp,384,the food was terrible.,22,4
+yelp_0506,I would not recommend this place.,0,yelp,506,i would not recommend this place.,33,6
+yelp_0815,I love this place.,1,yelp,815,i love this place.,18,4
+yelp_0817,The food was terrible.,0,yelp,817,the food was terrible.,22,4
+yelp_0844,I won't be back.,0,yelp,844,i won't be back.,16,4
+yelp_0847,I would not recommend this place.,0,yelp,847,i would not recommend this place.,33,6
+imdb_0091,Definitely worth checking out.  ,1,imdb,91,definitely worth checking out.,32,4
+imdb_0106,Very disappointing.  ,0,imdb,106,very disappointing.,21,2
+imdb_0126,10/10  ,1,imdb,126,10/10,7,1
+imdb_0364,Definitely worth checking out.  ,1,imdb,364,definitely worth checking out.,32,4
+imdb_0573,Not recommended.  ,0,imdb,573,not recommended.,18,2
+imdb_0586,Not recommended.  ,0,imdb,586,not recommended.,18,2
+imdb_0789,10/10  ,1,imdb,789,10/10,7,1

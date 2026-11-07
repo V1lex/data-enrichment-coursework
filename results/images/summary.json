@@ -1,0 +1,11 @@
+{
+  "listed_total": 7349,
+  "listed_trainval": 3680,
+  "listed_test": 3669,
+  "readable_images": 7349,
+  "xml_files_in_catalog": 3671,
+  "valid_trainval_before_dedup": 3670,
+  "clean_detection_rows": 3670,
+  "excluded_trainval": 10,
+  "exact_duplicate_group_rows": 0
+}

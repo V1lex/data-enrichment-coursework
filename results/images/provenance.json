@@ -1,0 +1,30 @@
+{
+  "executed_at_utc": "2026-11-07T21:01:08.825259+00:00",
+  "seed": 42,
+  "sources": [
+    {
+      "page": "https://www.robots.ox.ac.uk/~vgg/data/pets/",
+      "url": "https://thor.robots.ox.ac.uk/~vgg/data/pets/",
+      "license": "CC BY-SA 4.0",
+      "citation": "Parkhi et al., Cats and Dogs, CVPR 2012"
+    }
+  ],
+  "archives": [
+    {
+      "name": "annotations.tar.gz",
+      "bytes": 19173078,
+      "sha256": "52425fb6de5c424942b7626b428656fcbd798db970a937df61750c0f1d358e91"
+    },
+    {
+      "name": "images.tar.gz",
+      "bytes": 791918971,
+      "sha256": "67195c5e1c01f1ab5f9b6a5d22b8c27a580d896ece458917e61d459337fa318d"
+    }
+  ],
+  "versions": {
+    "python": "3.13.7",
+    "pandas": "2.3.3",
+    "numpy": "2.4.6",
+    "matplotlib": "3.11.2"
+  }
+}

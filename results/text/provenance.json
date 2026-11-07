@@ -1,0 +1,25 @@
+{
+  "executed_at_utc": "2026-11-07T21:01:08.736209+00:00",
+  "seed": 42,
+  "sources": [
+    {
+      "url": "https://archive.ics.uci.edu/static/public/331/sentiment%2Blabelled%2Bsentences.zip",
+      "page": "https://archive.ics.uci.edu/dataset/331/sentiment+labelled+sentences",
+      "license": "CC BY 4.0",
+      "citation": "Kotzias (2015), DOI 10.24432/C57604"
+    }
+  ],
+  "archives": [
+    {
+      "name": "sentiment_labelled_sentences.zip",
+      "bytes": 84188,
+      "sha256": "afc26626d710899948693e1a61405dce197f57ffa719fa1130d346b4cc095343"
+    }
+  ],
+  "versions": {
+    "python": "3.13.7",
+    "pandas": "2.3.3",
+    "numpy": "2.4.6",
+    "matplotlib": "3.11.2"
+  }
+}
