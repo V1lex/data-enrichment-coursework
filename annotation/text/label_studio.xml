@@ -1,0 +1,12 @@
+<View>
+  <Text name="review" value="$text"/>
+  <Choices name="sentiment" toName="review" choice="single" required="true">
+    <Choice value="positive"/>
+    <Choice value="negative"/>
+    <Choice value="disputed"/>
+  </Choices>
+  <Header value="Время разметки в секундах (без перерывов)"/>
+  <TextArea name="time_seconds" toName="review" required="true" rows="1"/>
+  <Header value="Комментарий и причина сомнения"/>
+  <TextArea name="comment" toName="review" rows="3"/>
+</View>

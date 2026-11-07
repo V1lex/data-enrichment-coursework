@@ -224,5 +224,11 @@ checkpoints/
 *.pt
 *.pth
 
+# Additional review texts are stored in the shared Drive annotation folder.
+annotation/text/*.csv
+annotation/text/pilot.json
+annotation/text/main.json
+annotation/text/reserve.json
+
 # Streamlit
 .streamlit/secrets.toml
