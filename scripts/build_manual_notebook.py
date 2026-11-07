@@ -23,8 +23,7 @@ cells = [md('''
 На странице публикации указана лицензия CC0: Public Domain.
 Корпус выбран из альтернатив, перечисленных в codebook.
 
-Отбираются полные англоязычные отзывы длиной 5–80 слов. Формируются непересекающиеся
-партии: 20 пробных, 120 основных и 20 резервных объектов. Предварительный отбор по
+Отбираются 120 полных англоязычных отзывов длиной 5–80 слов для основной разметки. Предварительный отбор по
 рейтингам 1–2 и 4–5 используется для формирования пула, но не определяет итоговые
 человеческие метки. Рейтинги и рекомендации не включаются в файлы разметки.
 
@@ -64,7 +63,7 @@ if not archive.exists():
 else:
     with zipfile.ZipFile(archive) as bundle:
         source.write_bytes(bundle.read('Womens Clothing E-Commerce Reviews.csv'))
-'''),md('## 2. Проверка пересечений и формирование партий'),code(selection),
+'''),md('## 2. Проверка пересечений и формирование набора'),code(selection),
 md('## 3. Документирование источника и интерфейс разметки'),
 code(f'''\n(OUT / 'label_studio.xml').write_text({config!r}, encoding='utf-8')\n(OUT / 'README.md').write_text({instructions!r}, encoding='utf-8')\n'''),
 code('''
@@ -81,14 +80,14 @@ source_record = {
 }
 (OUT/'source_license.json').write_text(json.dumps(source_record,ensure_ascii=False,indent=2),encoding='utf-8')
 tasks=[]
-for name, expected in [('pilot',20),('main',120),('reserve',20)]:
+for name, expected in [('main',120)]:
     rows=json.loads((OUT/f'{name}.json').read_text(encoding='utf-8'))
     assert len(rows)==expected
     assert all(set(r)=={'data'} and set(r['data'])=={'id','text'} for r in rows)
     tasks.extend(rows)
-assert len({r['data']['id'] for r in tasks}) == 160
-assert len({norm(r['data']['text']) for r in tasks}) == 160
-print('Пробная партия: 20; основная: 120; резерв: 20.')
+assert len({r['data']['id'] for r in tasks}) == 120
+assert len({norm(r['data']['text']) for r in tasks}) == 120
+print('Основной набор для независимой разметки: 120 отзывов.')
 print('Каталог файлов разметки:', OUT)
 ''')]
 for i,c in enumerate(cells):c['id']=f'manual-{i:03d}'

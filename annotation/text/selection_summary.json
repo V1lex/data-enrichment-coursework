@@ -1,8 +1,6 @@
 {
   "source_rows": 23486,
-  "pilot": 20,
   "main": 120,
-  "reserve": 20,
   "seed": 42,
   "archive_sha256": "6c1046fecda157adb083485fae9e219d4f76de68d26904c01e4a39b8fa8b9ecf",
   "checks": [

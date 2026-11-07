@@ -16,7 +16,7 @@ Comparing manual and synthetic data enrichment for sentiment classification and 
 
 Открыть в Colab: [отзывы](https://colab.research.google.com/github/V1lex/data-enrichment-coursework/blob/main/notebooks/01_text_eda.ipynb) · [изображения](https://colab.research.google.com/github/V1lex/data-enrichment-coursework/blob/main/notebooks/02_images_eda.ipynb).
 
-[Подготовка новых отзывов для разметки](https://colab.research.google.com/github/V1lex/data-enrichment-coursework/blob/main/notebooks/03_prepare_manual_reviews.ipynb) сохраняет отдельные JSON/CSV в `manual/text` на Drive: 20 пробных, 120 основных и 20 резервных примеров. Источник — Women's E-Commerce Clothing Reviews (nicapotato, Kaggle; на странице указана CC0). Отбор и лицензия описаны в [протоколе](annotation/text/README.md). Исходные рейтинги не передаются в задания разметки. Человеческие ответы хранятся отдельно.
+[Подготовка новых отзывов для разметки](https://colab.research.google.com/github/V1lex/data-enrichment-coursework/blob/main/notebooks/03_prepare_manual_reviews.ipynb) сохраняет единый набор из 120 отзывов в `manual/text/main.json` и `main.csv` на Drive. Источник — Women's E-Commerce Clothing Reviews (nicapotato, Kaggle; на странице указана CC0). Отбор и лицензия описаны в [протоколе](annotation/text/README.md). Исходные рейтинги не передаются в задания разметки. Человеческие ответы хранятся отдельно.
 
 ## Запуск в Google Colab
 

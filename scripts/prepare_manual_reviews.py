@@ -40,7 +40,7 @@ for bucket in buckets:
     selected.append(pd.DataFrame(accepted))
 
 metadata = []
-for name, start, stop in [('pilot',0,10),('main',10,70),('reserve',70,80)]:
+for name, start, stop in [('main',10,70)]:
     batch = pd.concat([b.iloc[start:stop] for b in selected]).sample(frac=1,random_state=73)
     records = []
     for _, row in batch.iterrows():
@@ -53,7 +53,7 @@ for name, start, stop in [('pilot',0,10),('main',10,70),('reserve',70,80)]:
     (OUT / f'{name}.json').write_text(json.dumps(records,ensure_ascii=False,indent=2),encoding='utf-8')
     pd.DataFrame([r['data'] for r in records]).to_csv(OUT / f'{name}.csv',index=False)
 pd.DataFrame(metadata).to_csv(OUT/'sources.csv',index=False)
-summary={'source_rows':source_rows,'pilot':20,'main':120,'reserve':20,'seed':42,
+summary={'source_rows':source_rows,'main':120,'seed':42,
          'archive_sha256':hashlib.sha256((RAW/'clothing_reviews.zip').read_bytes()).hexdigest(),
          'checks':['5–80 words','nonempty text','normalized duplicate removal',
                    'no normalized exact matches or substrings with original UCI'],
