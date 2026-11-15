@@ -1,0 +1,8 @@
+<View>
+  <Image name="image" value="$image" zoom="true"/>
+  <RectangleLabels name="head" toName="image">
+    <Label value="pet_head" background="#FF4D4D"/>
+  </RectangleLabels>
+  <Header value="Комментарий (только если есть сомнение)"/>
+  <TextArea name="comment" toName="image" rows="2" required="false"/>
+</View>
