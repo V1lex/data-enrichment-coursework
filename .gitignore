@@ -232,3 +232,5 @@ annotation/text/reserve.json
 
 # Streamlit
 .streamlit/secrets.toml
+
+.DS_Store
