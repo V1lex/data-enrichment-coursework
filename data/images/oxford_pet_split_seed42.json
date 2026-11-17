@@ -1,0 +1,12 @@
+{
+  "input": "data-enrichment-coursework/processed/images/pet_head_clean_manifest.csv",
+  "input_sha256": "b147c104098a6e34d7c85adb9792989941ff8747e15dc9a029fdc9cb6e27e84d",
+  "seed": 42,
+  "algorithm": "Sort breeds by name and records by id; shuffle each breed sequentially with Python random.Random(42); assign first round(0.2*n) to validation, remainder to train. Python round uses ties-to-even.",
+  "counts": {
+    "train": 2936,
+    "validation": 734
+  },
+  "split_sha256": "9d8685325df7af584c7b992a1e2a56505860ca853ebebe1eaff2fc3d349b83a1",
+  "evaluation_policy": "Only unmodified validation originals are for evaluation; transformed copies inherit their source split and validation copies are not evaluation data."
+}
