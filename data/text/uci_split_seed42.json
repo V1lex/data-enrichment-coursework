@@ -1,0 +1,18 @@
+{
+  "input_file": "data-enrichment-coursework/processed/text/reviews_clean.csv",
+  "input_sha256": "3ebc8cce3f4236dc3e53c19b6219c98c0a75b84509d360fc9697bed30a057f7c",
+  "input_rows": 2979,
+  "seed": 42,
+  "stratify": [
+    "source",
+    "label"
+  ],
+  "algorithm": "Sort strata by (source, label) and rows by id; shuffle each stratum sequentially using Python random.Random(42); first round(0.1*n) validation, next round(0.1*n) test, remainder train. Python round uses ties-to-even.",
+  "counts": {
+    "train": 2381,
+    "test": 299,
+    "validation": 299
+  },
+  "split_file": "uci_split_seed42.csv",
+  "split_file_sha256": "4968889ae0fab3c41f79b1f51f5b0370f500e9e779df5d23d9f4f41e859e307d"
+}
