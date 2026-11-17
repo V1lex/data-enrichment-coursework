@@ -9,8 +9,10 @@ Comparing manual and synthetic data enrichment for sentiment classification and 
 | [01_text_eda.ipynb](notebooks/01_text_eda.ipynb) | Все три файла UCI, метки, повторы, графики, очищенная таблица |
 | [02_images_eda.ipynb](notebooks/02_images_eda.ipynb) | Oxford Pet, проверка фотографий и XML, рабочий manifest, примеры рамок и графики |
 | [03_prepare_manual_reviews.ipynb](notebooks/03_prepare_manual_reviews.ipynb) | Формирование партий дополнительных отзывов и файлов разметки в Google Drive |
+| [04_text_training.ipynb](notebooks/04_text_training.ipynb) | Сравнение TF-IDF + логистической регрессии и CatBoost на четырёх вариантах обогащения текста |
+| [05_image_training.ipynb](notebooks/05_image_training.ipynb) | Сравнение YOLO11n и Faster R-CNN на четырёх вариантах обогащения изображений |
 
-Ноутбуки выполняются независимо в среде CPU.
+Ноутбуки EDA, подготовки данных и обучения текста рассчитаны на CPU. Для обучения детекторов в ноутбуке 05 нужен Colab с GPU, например T4.
 
 Оба ноутбука выполнены на полных официальных архивах, результаты сохранены в ячейках и в `results/`. Фактические итоги: 3 000 исходных отзывов → 2 979 после удаления повторов; 7 349 читаемых фотографий, 3 680 trainval ID → 3 670 пригодных для текущей постановки с одной рамкой. У 9 ID нет XML, у одного две рамки (исключён по правилу одного объекта, а не объявлен повреждённым). Детали — `results/text/summary.json`, `results/images/summary.json` и журналы проверок.
 
