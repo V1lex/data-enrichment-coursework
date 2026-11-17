@@ -11,10 +11,11 @@ Comparing manual and synthetic data enrichment for sentiment classification and 
 | [03_prepare_manual_reviews.ipynb](notebooks/03_prepare_manual_reviews.ipynb) | Формирование партий дополнительных отзывов и файлов разметки в Google Drive |
 | [04_text_training.ipynb](notebooks/04_text_training.ipynb) | Сравнение TF-IDF + логистической регрессии и CatBoost на четырёх вариантах обогащения текста |
 | [05_image_training.ipynb](notebooks/05_image_training.ipynb) | Сравнение YOLO11n и Faster R-CNN на четырёх вариантах обогащения изображений |
+| [05_image_training_resume.ipynb](notebooks/05_image_training_resume.ipynb) | Продолжение обучения детекторов с сохранённого состояния |
 
 Ноутбуки EDA, подготовки данных и обучения текста рассчитаны на CPU. Для обучения детекторов в ноутбуке 05 нужен Colab с GPU, например T4.
 
-Оба ноутбука выполнены на полных официальных архивах, результаты сохранены в ячейках и в `results/`. Фактические итоги: 3 000 исходных отзывов → 2 979 после удаления повторов; 7 349 читаемых фотографий, 3 680 trainval ID → 3 670 пригодных для текущей постановки с одной рамкой. У 9 ID нет XML, у одного две рамки (исключён по правилу одного объекта, а не объявлен повреждённым). Детали — `results/text/summary.json`, `results/images/summary.json` и журналы проверок.
+Оба ноутбука EDA выполнены на полных официальных архивах. Графики сохранены в ячейках ноутбуков, таблицы и журналы проверок — в `results/`. Из 3 000 исходных отзывов после удаления повторов осталось 2 979. В Oxford Pet читаются 7 349 фотографий. Из 3 680 trainval ID для задачи с одной рамкой пригодны 3 670: у 9 ID нет XML, у одного две рамки. Сводки: [текст](results/text/summary.json) и [изображения](results/images/summary.json).
 
 Открыть в Colab: [отзывы](https://colab.research.google.com/github/V1lex/data-enrichment-coursework/blob/main/notebooks/01_text_eda.ipynb) · [изображения](https://colab.research.google.com/github/V1lex/data-enrichment-coursework/blob/main/notebooks/02_images_eda.ipynb).
 
@@ -24,18 +25,17 @@ Comparing manual and synthetic data enrichment for sentiment classification and 
 
 Ячейки выполняются последовательно. Первая ячейка подключает Google Drive и создаёт каталоги данных и результатов.
 
-В `MyDrive/data-enrichment-coursework/` создаются:
+Ноутбуки читают данные из `MyDrive/data-enrichment-coursework/`. Пути в таблице указаны относительно этой папки.
 
-```text
-raw/text/          исходный архив UCI
-raw/images/        images.tar.gz и annotations.tar.gz
-processed/text/    исходная и очищенная таблицы, исключения
-processed/images/  полный каталог, рабочий manifest, исключения
-results/text/      графики, таблицы, summary.json, findings.txt, provenance.json
-results/images/    графики, примеры рамок, аудит, summary.json, findings.txt
-```
+| Данные | № 04 · текст | № 05 · изображения |
+| --- | --- | --- |
+| Базовая выборка | `processed/text/reviews_clean.csv` | `raw/images/images.tar.gz` и `processed/images/pet_head_clean_manifest.csv` |
+| Фиксированное разбиение | `splits/text/uci_split_seed42.csv` и `.json` | `splits/images/oxford_pet_split_seed42.csv` и `.json` |
+| Реальные дополнения | `manual/text/manual_text_agreed_112.json` | `manual/images/main/` и `manual/images/annotations_final.json` |
+| Синтетические дополнения | `augmented/text/draft_codex.json` | `augmented/images/augmented_images.zip` |
+| Результаты обучения | `results/text/training/<run_id>/` | `results/images/training/<run_id>/` |
 
-Архивы и результаты сохраняются на Drive. Фотографии распаковываются на временный диск Colab `/content/coursework_cache`. Oxford Pet требует места под архивы (~800 МБ) и распакованные файлы.
+Ноутбук продолжения обучения дополнительно читает сохранённое разбиение, списки обучающих примеров и контрольные точки из папки предыдущего запуска `results/images/training/20261117T200442Z_d167b2ac/`. Фотографии распаковываются на временный диск Colab.
 
 ## Локальная проверка
 
