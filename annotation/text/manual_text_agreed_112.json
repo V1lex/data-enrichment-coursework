@@ -1,0 +1,898 @@
+[
+  {
+    "id": "review_910692a4698e",
+    "text": "I am 5'2\", 110 lbs and i ordered my usual size xs and they fit perfectly. they are so soft and comfortable and keep me very warm. i can't wait to take them with me when we go to the snow next month!",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_cae36343dc82",
+    "text": "This bra runs very small, and is hard to get on and off. i think if i went a size up i would be happier.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_122445ebf4b9",
+    "text": "I purchased this sweater in black to dress up my everyday cardigan. this is very soft and can dress up a skirt or great with jeans.",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_a2e9f107af0f",
+    "text": "I really liked the look of the orange so ordered an xs. i prefer a s petite but it is sold out. the xs arrives and while i still like the color, the fit is really weird. the cowl is very high up but the sleeves are still long. it looks nothing like the photo. i cannot see how the cowl sits on the model's collar bone. despite eliding the color, the design is off so have to return.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_94a219b91b98",
+    "text": "I love this top.  the fit is great for me. i ordered a small. the color is a bit more peach than the pink in the picture,  but still very cute.",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_206bd47a4c0e",
+    "text": "This top is a good concept but the structure of it is not for all body types. i am 5.6 and 135 and wear an xs to a s in retailer tops and i ordered this is a small and it was huge in the chest and tight at my hips...will be returning.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_54b51c4e4262",
+    "text": "I had really high hopes for this shirt after reading the reviews. first off it runs really small. i usually wear a small or medium ( 4 or 6) i couldn't even get the 6 on. i probably could have even done a 10. the fabric was extremely flimsy. i was almost afraid i was going to rip it taking it off. other than the sizing and the fabric, it just wasn't flattering on me.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_ecabfa984089",
+    "text": "It looks like you are wearing cargo shorts. really unflattering. avoid buying this skirt",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_b059a53012be",
+    "text": "I had a dress that felt like this in 1993. it jiggles, even if you don't. no amount of spanx can cure a dress jiggling of its own accord. the neckline that i had thought would be classic instead veered into frumpy. all in all i felt like it belonged in a discount store surrounded by polyester brethren.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_a424d15779a6",
+    "text": "A great white blouse! i expected this top to be sheer and yet it's quite opaque. i bought the white in a size small, i find it true to size and the silhouette is very flattering. relaxed yet super polished look.",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_0d987b6d0398",
+    "text": "I saw this in the store, it is definitely something i had passed over on line. it is so flattering on! i bought in ivory then immediately ordered the grey online!",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_da7263629f09",
+    "text": "It's a fine dress, but it definitely runs small, and it's actually a lot shorter than i was expecting, especially since i'm only 5' 3\"",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_e8b79872a476",
+    "text": "Very cheap looking material. looks cheap to cost $158.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_b55fd6b03d6e",
+    "text": "I loved this top so much i bought both colors! soft and warm without being too thick or bulky.",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_8111eeae5f3e",
+    "text": "This sweater is unique and really pretty.  i got so many compliments and i felt really girlie wearing it - it is so fun.",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_3d5d46c7b6cd",
+    "text": "These are the softest jeans ever! i love the way that they hold their shape, and make my bum look amazing!! i am 5'3\" and they do come much longer than shown on the model...right below my ankle bone. i actually prefer this because they will be wearable right through fall if i pair them with booties! the fit is true to size...108 pounds and i got a 25. highly recommend!!",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_a05e5058477a",
+    "text": "This dress is comfortable and a great go to dress to wear to work and then after for drinks with friends.",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_b4f358a960aa",
+    "text": "This skirt is beautiful. fabric is gorgeous,with perfect amount of shine and luxury to it. there is a \"life \"in this skirt; it is well made and follows the body lines in a perfect way. or,i better say, it did fit me perfectly first ten minutes of wearing it. unfortunately, it stretched more than a full size, and generally lost its shape. now, the skirt is two sizes too large and not really wearable anymore.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_a0a4e7b7284b",
+    "text": "I bought this top for work but i can also wear it out with friends. it is made well and has a lining that is comfortable and makes it flow nicely. it will be nice for summer. you can tie the neck or just leave the ties down so it has options.",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_409d21da6d4b",
+    "text": "This is great without a belt, with or without leggings. it drapes just right and is flattering for big busted, big behind women (like me).",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_eaed039a6ca4",
+    "text": "This dress looks so cute in the pictures-i love the style. ordered typical size and it was huge-felt like many sizes too big.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_6a18c6745e93",
+    "text": "I wanted to love this sweater but the fit is just awkward. it is very short and box and ends up being very short in the back. i am going to return this item.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_47fb58479c93",
+    "text": "This dress is absolutely hideous on my physique. ordered a size 6 and it hung on me like a cheaply made tent. i have an athletic built am a 34d. it is going back asap.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_0baf9cd85e08",
+    "text": "Beautiful white denim pants. the fit is perfect. fitted on the top with a nice flare on the bottom. very classy and versatile cut. paige denim runs long for me and these are no exception. will be getting them hemmed but i don't mind because they are perfect!",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_d93bc897b4d3",
+    "text": "This sweater looks great in the picture but when it came in the mail turned out to be enormous. i tried it with a belt on like in the picture but that just made the whole sweater bunch up everywhere. the quality is nice. maybe sizing down would help. but the medium/large is going back. i am normally a medium.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_c0951a5c1571",
+    "text": "I am not sure who would look good in this dress. it is extremely oversized with tons of fabric that will not flatter anyone!",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_6832be484fb2",
+    "text": "Sticker price was a shock but it is so worth it. it is the best little black dress i have ever owned. the lace is so soft and the dress is flattering. it is fun and flirty. this is a closet staple piece for sure!!! love this dress so much!",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_237f3f185c2d",
+    "text": "Great romper i personally would not wear it for ever day - i will be wearing it for a beach cover up while on vacation. for reference i ordered a m and am 130 34b.",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_790649bb0423",
+    "text": "Such a cute top. does run slightly big, depending on how loose you want it to be. for such a simple design, the quality is great.",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_400c935f2faf",
+    "text": "Everyone should have this blouse, amazing! simply love it! it does run large, so purchase down 1-2 sizes.",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_d7d769a873a7",
+    "text": "I really like both colors in this top. i love the way it lays, the length, the material, etc. what i don't like is that the arm holes are very large and shows the entire side of your bra. this is definitely a summer top so why would someone want to have to wear a cami when it's warm enough to go sleeveless? too bad, i would have bought it for sure.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_51984988b98c",
+    "text": "This dress is just too baggy overall. i am 5'6\" 140 lbs and a size small was so unflattering. i can't go down in size because the waist detail will get too high on me. it was already a little high on the small.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_6a940da0ff18",
+    "text": "Not as cute as photos, and too small in chest. i am 5'5'', 125 lbs, and the small was too tight in the chest, and i am not large here at all. shoulders and sleeve length fit well. will return. not comfortable, and will need to be able to button it on rainy days.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_269480c45679",
+    "text": "I purchased this in the ivory color in store and liked it so much i ordered the plum color on-line. i am almost always an xl, but this fit better in the l size. it's very soft and comfy and i love the swingy style. will be wearing it a lot!",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_a6b099756ef6",
+    "text": "Wore it a couple of times, it is cool and comfortable. washed it and the raw edges are starting to fray. i might get one or two more wears out of it. hand washed and hung dry.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_816d560ea785",
+    "text": "This top is stunning. the colors are vivid and it is extremely cozy and soft. however it seems delicate and would need to only be worn once in a while. it is not an everyday top. the material has a cotton candy like appearance. it really is unique and one of a kind.",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_3f03d8a53ec9",
+    "text": "I loved the look of this sweater on-line, but it just didn't work for me. the fit wasn't good enough. the style okay. the color fine. the feel, scratchy. overall, it did not work for my body.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_8c4624df33ef",
+    "text": "I've been looking for a nice summer maxi dress and after reading some positive reviews, i decided to get the dress. the fabric is soft and has a nice flow to it. however, i had to return the dress because the cuff of the sleeve was too tight on my forearm, which make it impossible for me to raise my arms.\r\n\r\ni ordered size petite xxs",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_a06f1a6352f9",
+    "text": "Great sweater coat.  fits a bit large.  purchased a small...which is unusual for me.  i normally wear a medium or sometimes a large.  retailer clothes are mosly cut small.  it looks great on...warm, comfy and attractive.  i am very pleased with this purchase.  highly recommend.",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_050c3a64ef44",
+    "text": "I love this jump suit.. sorta. looks great on but the dye rubs off on your skin. i washed it and its still happening. when you put your hand in your pockets, they come out blue, knees are blue, thighs, etc. i looked dirty by the end of the day. wish i could return it. fit and look great... not great after wear.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_9489ec01c9d3",
+    "text": "I would really like this dress if the material were a little thicker. it's really thin so you can see my nipples straight through the dress. you can't wear a bra with it because it is backless so i don't understand how you are supposed to wear this outside of the house.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_388254e8d209",
+    "text": "I was surprised retailer decided to ship this sweater. the sweater looks like it's falling apart and it is huge. i would not recommend this even at a clearance price.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_ce2f78571387",
+    "text": "I generally don't spend this much on jeans but wanted a nice black pair so rolled the dice during the sale. who can wear these? i'm an average size 12 and struggled to get these size 32s over my hips, buttoned and zipped. i looked like a stuffed black sausage. best for thin frames and even then, size up.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_34331b68e891",
+    "text": "Really cute romper that can be dressed up or down. super comfortable and flattering. i ordered the xs and it fit perfect.",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_49f92416a759",
+    "text": "Beautiful dress that is very flattering! wearing it to my bridal shower.  more appropriate for spring or summer!",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_cb520fbfaf7c",
+    "text": "The fit and feel of this top is lovely. great shirt to layer. fits great, i get compliments every time i wear it.",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_b5351d051ec2",
+    "text": "Agree with other reviewer that this is massive even for a cape. unflattering overall. i normally wear a size 2 of 4 and bought this in an xs and two of me can easily fit into this with room to spare. unlined and it itches!",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_5aad4125de9a",
+    "text": "This is a tts basic tee with the added flare of the ruffled back peplum and the elegance of the beaded front neckline. the beading is lovely and mine was intact. i bought my normal small based on reviews and the fit was perfect. (34-b) the beige color is a classic neutral and can be worn year round by just adding a jacket or sweater. love it!",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_9a1009b83e87",
+    "text": "I ordered an xxs online and it's still massive. the only thing i can use it for is a beach coverup. the embroidery is pretty but i will be returning.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_49538e3ba92a",
+    "text": "I like the color blocking of this top, but it was too large and billowy on the bottom. it felt like a pregnancy top so i had to return it as it gave me no shape.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_f23987e442b8",
+    "text": "This shirt would be perfect if i needed a canopy on my tent. this shirt runs ridiculously large. purchased a medium and it should be labeled an xl. no impressed with the pattern in person. looks cheap. will be returning.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_c10689ded86a",
+    "text": "This skirt fits in a strange way. there is one pleated area but it is on the side so it is not flattering and i kept feeling as if i wanted to straighten the skirt.. the elastic looks frumpy. unflattering.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_56cdccbe9f0e",
+    "text": "Only worn this once but had multiple compliments! such a cute pattern and style. only complaint is wish they would have done the sides with a split. it kind of wants to hug the hips and then be too wide in the middle. still, love it!",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_dce20decb6c4",
+    "text": "I wish this fit me better. i love the inside fur. it is extremely soft but it doesn't look flattering at all. it makes my shoulders look really broad and it was shorter in the length than i wanted. it wanted it fit over my butt (or cover half) and it sits a little below my waist. unfortunately i am taking it back. great idea though.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_ed0d6ecd45ef",
+    "text": "Really cute everyday dress. love the fabric and material, it's super soft. a great dress to just throw on and go.",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_1eaa62ba2a88",
+    "text": "The fit is true to size. the quality is nice. i am happy to having this basic wardrobe staple added to my closet!",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_d9acc65185f4",
+    "text": "I love these bottoms. great colors. i also love the feel of the bottoms, very soft. high quality.",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_d267e813a38c",
+    "text": "I tried a size x small on in the store and i am 5'4\" 120 lbs. i had trouble getting my head through the dress, and once i did it felt so tight at the neck, as if it was chocking me. the dress color is very nice but the tight neck and odd arm holes were a no. i would not recommend this dress for those reasons.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_a4824b139c29",
+    "text": "I just got these leggings yesterday and honestly they're amazing. they look just like the picture, feel great on, don't slip in the waist. zero negatives. i can't wait to wear these bad boys out.",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_c7f6efb2b325",
+    "text": "The comfort of this fabric is terrific. the swing-y style is easy to wear. however, i expected a black and white dress, which is how it looked on line. in person, the light portion of the dress is a marled oatmeal color. it is fine - just not what i expected.\n\nif you are a fan of swing dresses, this is a great, casual choice.",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_2efb5252b036",
+    "text": "I have this in black and red. it's a great and flattering dress that is a worn a bit large. you can wear it out on a date or more casual. the fabric is super comfortable as well.",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_b80f18718f8c",
+    "text": "This top is sold out in my size online but i was fortunate enough to snag one in the store. great top that can be dressed up or down. the ruching across the front is very slimming. tried the top with skirts and pants -- looks great with everything! i usually wear a size small in deletta tops but sized up to a medium to accommodate my chest (i am a full c cup). i highly recommend this purchase.",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_5728c693d83b",
+    "text": "I absolutely love this sweater. it will take me into spring and right on in to summer beach bonfire nights. a great staple!",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_6a0117825495",
+    "text": "I purchased this in the yellow for my daughter and she has not seen it yet. the style is very cute, but the fabric is quite thin. she will have to make that call, but if i had bought it for myself, it would be going back. i'm not willing to wear a camisole under a t-shirt. it also feels like the kind of knit fabric that shrinks and skews when it's washed, so that remains to be seen.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_23d5e091879a",
+    "text": "These could barely fit over my calf and did not even broach my knee. i have big calves but i am otherwise i slim and normal sized woman. these are way too tight and narrow to enjoy or to get much use out of.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_0ee8d3397f68",
+    "text": "I am so happy with this chemise! the pink is the most breathtaking blush and the fabric is super soft. i like that the straps are adjustable, allowing me to make the bodice a perfect fit while adjusting the gown to the perfect length for me. it's definitely my new favorite!",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_8cda6d7a766a",
+    "text": "Ordered this in white and the peachy color- the armholes were gaping. not well designed. i don't recommend this tee at all.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_b14e2bb8a85a",
+    "text": "It was huge. material looked good but was too bulky. will be returning it.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_f6e279462bed",
+    "text": "I wished these fit a little better. unfortunately, they were a little tight in the thighs and if i didn't pull the waist of the pants up, i had sagging crotch and the pockets hung out. needless to say i made a return.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_ff6495f82a2f",
+    "text": "My only complaint is that there is no lining. it also came very wrinkly and i need to figure out how to steam it.\r\n\r\nhowever the fit is perfect (tts) and it is so very flattering!",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_c6b9d0ddb16f",
+    "text": "I tried this sweater on and  loved it immediately! it's super soft and comfortable, and very slimming. i tried my normal size s and an xs, and decided on the xs as the s gave it (and me!) a bit of a wider look. love the navy color!",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_a665b422f2ab",
+    "text": "I love these tights so much i almost want to buy another few pair and save them for when these wear out. the lining is like clouds on your calves. they're thick enough that you don't need to be totally covered by a tunic but slim enough that they don't add bulk. love, love them!",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_b5ef60d80c76",
+    "text": "I am 5,7\" 135 lbs the small fit well in the bust but no shape . it was just big and frumpy . it went back .",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_a4e9608e4143",
+    "text": "This sweater is a lovely color and very soft. however, the sweater 'sheds' terribly and the color is very large distracting from the overall appearance. it's also thin and whatever shirt is worn underneath will show through.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_43f593979654",
+    "text": "I wore this dress to an outdoor farm wedding and it was perfect. it runs small (i'm 5'5\" 125lbs with 34c bust) and i got a size 6. i tried on blue and pink, both were great but the blue won me over. it wrinkles easily so i had to use an iron on low to medium beforehand. will wear many more times!",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_1be4695c2e46",
+    "text": "I feel like an indian goddess in this dress! lots of swing to it!",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_5ea45e02a9cc",
+    "text": "I did buy these when they were 40% off the sale price. well worth it. they are comfortable, thick but not too warm. they are my 'nice' home pants to wear outside. =) i love them. i got a large and they fit on the baggy side but not bad. i'm usually a large or xl.",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_603dab3910fb",
+    "text": "I love this skirt! the color is beautiful, much darker than in the photo. the only issue i have is with the length. it's much longer in real life. i'm definitely going to need to have it shortened.",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_909e317e659f",
+    "text": "So glad i gave this a try. looks so much better on than seeing it online!!! i doubt i will ever wear it tied, but it's very cute and comfortable. it will probably be my go-to sweater to throw on over summer clothes when the ac is too cold. it would even be great to throw on over workout clothes! \r\nfits tts.",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_fc4f6926309d",
+    "text": "Soft and cozy, not itchy at all, and it has pockets! i am 5'3, 120lbs, 34dd bra and take this in size small.",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_d27e78f13a38",
+    "text": "T.la makes the best tees. soft feel, sophisticated color layering, and a body skimming shape -- all retained after multiple washings. versatile, too. other tees fade, stretch out, shrink. not t.la. a gem.",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_f5d347a7e0cc",
+    "text": "Matronly and unflattering. i think this may work on a very tall and slender body type.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_2070af4ab62e",
+    "text": "The fabric is a little stiff, the back looks unusually long compared to the front, and it fits tight across the chest. and i'm not busty so that's not a factor.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_e48b8d5ba73d",
+    "text": "This top looks great on the model -- a petite frame, small-busted body.  i am 5'2\" and have a large bust and curvy hips. this top hit in all the wrong places. the front looks very cropped and frumpy, if you have a large bust. the width of the top of very boxy.  the top is very soft and comfortable and the color is pretty.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_2d3c1b658f5a",
+    "text": "I loved this dress before putting it on, but it was just not the right cut or style for my body type. it is very roomy and full and looked like a maternity dress which was not a look i was going for. sadly this will be going back. i loved the print and the feel of the material. just not a flattering cut for me.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_bd097a566ed5",
+    "text": "This dress is super comfortable and flattering.  i went with the stripes (and the p to shorten the length) -- it looks amazing with otk boots.  however, the material isn't very thick; it's more of a fall/spring dress than a winter.  i'm a xs-s p in retailer dresses - i went with the small.  xs would've fit but less flatteringly",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_cf770ef848d4",
+    "text": "I'll start by saying, over the years, i get more and more frustrated by the lowered quality of retailer's products. this dress represents all of my frustration. cheap, cheap cheap material. low thread count. elastic!!! around the end of the sleeves that rubs the cheap fabric against your arm. i mean, this dress is a total disaster - and looks nothing like the photograph shown.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_9270fb9240ed",
+    "text": "This top was just not flattering. i'm 5'8\" and medium build, and the m was very bulky and the fabric didn't fall in the right places. made me look very round and i'm not, so it's definitely going back!",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_664e4170fd71",
+    "text": "Wore these to church and stayed cool without being scandy. i havent worn skorts since the 90s and this was such a nice return to that trend. :-)",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_94c4abab2a3f",
+    "text": "This tank is not very flattering. there is a lot of fabric, it's very boxy, & the holes kind of remind me of a high school basketball jersey. i even sized down and it's still just wide. i'm returning :(",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_c4b189e15cbb",
+    "text": "Bought this dress for my daughter to wear to a rehearsal dinner and i couldn't believe how beautifully it fit. fitted through the top, falling to a gorgeous flare. hit her at knee (she's 5\"6'). classic, elegant, femme fatale look that will work for a range of occasions.",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_241f54d17307",
+    "text": "I adore a well made and well fit tshirt. t.la always delivers! this one is no exception. fun, swingy and light. the tie on back is a fun little addition and the length is perfect. i'm 5'9 and always prefer longer tops. the swing in this one gives it a great length. love the colors but decided to stick with basic white. i'd love this in black too! highly recommend!",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_6dbd0efb742c",
+    "text": "I was really wanting a nice white summer blouse to pair with patterned skirts. unfortunately, this fell short as it was huge. not only was it big, it flared at the bottom. it would be perfect if i was sporting a baby bump, but not what i am going for right now. if the tank was a bit slimmer i would have kept it as a tunic.i'm sad that i'll have to return it.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_55b9d8e2cb16",
+    "text": "I bought this top in black, and it fits my body type really well. it is probably one of my favorite purchases from retailer recently. the black top is really slimming and is a great cut. i usually have trouble finding tops that are long enough for me, but this top is definitely a great length.",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_b8f156a8dbbf",
+    "text": "This shirt is semi-fitted. i like it because it is not boxy but not overly tight. it is not heavy even though it is a sweatshirt material. i wish the neck was a bit higher but i will wear a tee under it. the back is really cute. \r\nit is different and i like that.",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_badf7312b86e",
+    "text": "Have been on the hunt for decent shorts all summer. as an elder, i need some length, comfort, style and attractive fit. these meet all the criteria. i'm 5'3\" and got the 31's. they're lightweight but substantial enough to keep their shape. love the faux cuff too. they stretched a bit but still have a perfect fit. got the grey on sale and getting 2 more in other colors left in my size at full price. so good!",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_a2a43441faf1",
+    "text": "I wear med or large in most items. the medium was huge. fit like a moo moo. size down by at least two.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_f803f3b2e456",
+    "text": "Maybe it's because i'm 40, but this top was underwhelming. i felt like it was a cheap tee with a big, obnoxious bow on the back. it does look cute on the model, so maybe it's a \"younger\" top. i would have felt silly wearing it.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_fbbede13036e",
+    "text": "Detailed beading was beautiful. it's too boxy, way to much fabric in the waist/bust and tight on the hips. it doesn't fall boxy/boyfriend like. the grey fabric is not soft and is lighter in color than the picture. was hoping this would be my go to sweater for warmth on casual days-bummed.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_72b437c9ee9a",
+    "text": "This is way cuter on the model. it runs so big that it is very unflattering. perhaps on someone tall it would look better, but sadly it looked dumpy on my 5'2 frame. it also arrived with some black stain on it. it is going back.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_5a9a7132cecf",
+    "text": "I didn't notice this dress online but it jumped out at me at the store.  i sized down to a small as the bust and arm area seemed very loose in  medium.  (36b). it's very comfy and beautiful.  i tried it with  a belt,  but quite honestly  it doesn't need one and it looks so much nicer without one.  not sure about what bra to wear ...likely strapless , or as one person said. .none.",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_339e7ebe33a8",
+    "text": "This dress is so soft and comfortable. great winter staple. i purchased the blue motif, which really doesn't have any blue on it. the stripes are fun and make this the perfect dress to throw on and feel great while staying comfortable.",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_4462252ff15a",
+    "text": "I love these cozy, fashionable leggings. they are super flattering and thick enough to wear to yoga or out and about in the real world. i will definitely be getting another pair! they seem true to size. i am tall (5'11) and usually wear a lg.",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_7113fdb3e1f6",
+    "text": "Pilcro denim with embellishment like this always wins me over. these pair of jeans fit well, the detail is so pretty for fall. cant wait until it cools off to wear these. the price point is a little high considering the silly shipping costs too. love the jeans though.",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_926b35545487",
+    "text": "I had high hopes for this top based on the photos, but when it arrived it is a very thin cheap feeling top. the color is a dusty rose color that has a yellowish mottle throughout it, almost like a tie dye or slub effect.  not pretty at all.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_711267feace4",
+    "text": "Light but cozy enveloping sweater. i've worn this with an evening outfit, as well as to a preschooler's birthday party. it is an odd cut, but now that i have figured it out it is an easy piece to throw on and look put together. tons of compliments every time i wear it. it is quite long (i'm 5'4\"), so it would work for someone taller, too.",
+    "sentiment": "positive",
+    "label": 1,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_5779ca6cb388",
+    "text": "Runs small. arms very short and hits in the wrong place across your chest. would not recommend.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_d9b772ffea2b",
+    "text": "These run very small!! they are also short, almost like a crop pant. the fit was so weird that i won't even exchange for a bigger size.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_137bd281cb83",
+    "text": "I read the previous reviews and ordered down a size knowing that the shirt runs big.   i really wanted to love the shirt however it was a tent. with all of the extra material in the back, it billowed out in all the wrong places. the material is comfy and it's a very cute concept, just didn't work for me.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_b5e46361f2b2",
+    "text": "This sweater i bought to go with a navy dress. it is not ivory. it is sortof a blush color???? not at all what i had in mind. the sweater itself is pretty. the back is shorter as someone else described which looks slightly awkward when wearing it. definite return. :(",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_d635549a1a17",
+    "text": "Cute skirt but i agree with the other reviewer. you can't get it on! i tried my skinny daughter tried no go!",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  },
+  {
+    "id": "review_8569f6304c7a",
+    "text": "This dress has a great shape and fabric - but the v neckline is too deep/low and the arm holes are also cut too low. would loved to have been able to keep it but had to return.",
+    "sentiment": "negative",
+    "label": 0,
+    "source": "Womens Clothing E-Commerce Reviews",
+    "annotation_method": "matching_A1_A2"
+  }
+]
