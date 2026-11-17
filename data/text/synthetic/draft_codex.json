@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "synthetic_codex_0001",
+    "text": "The battery barely makes it through my commute.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0002",
+    "text": "It looked sturdy online, but the hinge broke after a week.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0003",
+    "text": "The buttons stick every time I try to adjust the volume.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0004",
+    "text": "I could hear a constant hiss through the earpiece.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0005",
+    "text": "This cable stopped charging unless I held it at an angle.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0006",
+    "text": "The cover blocks the port, so I have to remove it to charge.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0007",
+    "text": "Setup was easy enough, but the connection keeps dropping.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0008",
+    "text": "The replacement arrived scratched and still didn't fit my phone.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0009",
+    "text": "It feels flimsy and slides out of my hand.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0010",
+    "text": "The instructions don't match the device that came in the box.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0011",
+    "text": "The clip holds firmly without making the case bulky.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0012",
+    "text": "Calls sound clear even when I'm walking outside.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0013",
+    "text": "I charged it once and used it all weekend.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0014",
+    "text": "The cable is long enough to reach the outlet behind my desk.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0015",
+    "text": "It paired immediately and has stayed connected since.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0016",
+    "text": "For the price, this little speaker sounds surprisingly full.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0017",
+    "text": "The buttons are easy to find without looking down.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0018",
+    "text": "My phone fits snugly and the screen is still easy to use.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0019",
+    "text": "The charger stays cool and works with both of my devices.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0020",
+    "text": "I like how light it is; I forget it's in my bag.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0021",
+    "text": "The mystery falls apart long before the detective solves it.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0022",
+    "text": "Every scene seems to repeat the same tired joke.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0023",
+    "text": "I wanted to care about the family, but the dialogue felt forced.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0024",
+    "text": "The chase goes on forever and somehow never becomes exciting.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0025",
+    "text": "A promising opening gives way to a muddled and predictable story.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0026",
+    "text": "The actors shout through most of the film without creating any tension.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0027",
+    "text": "Even the scenery couldn't make up for that dreadful script.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0028",
+    "text": "By the ending I'd forgotten why these characters were fighting.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0029",
+    "text": "The comic relief was so intrusive that the sad scenes never landed.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0030",
+    "text": "This could have been a decent short, but it drags at feature length.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0031",
+    "text": "The quiet final scene stayed with me long after the credits.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0032",
+    "text": "Both leads make their unlikely friendship feel completely believable.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0033",
+    "text": "The story takes its time, and the payoff is worth it.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0034",
+    "text": "I laughed at the small details tucked into the background.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0035",
+    "text": "The director makes excellent use of a very limited setting.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0036",
+    "text": "What a lovely performance from the actress playing the grandmother.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0037",
+    "text": "The twists surprised me without making the plot feel contrived.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0038",
+    "text": "Its humor is gentle, but the characters have real depth.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0039",
+    "text": "The music and images work together beautifully in the last sequence.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0040",
+    "text": "A lively adventure with enough heart to make me watch it again.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0041",
+    "text": "Our soup arrived cold after a very long wait.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0042",
+    "text": "The noodles were mushy and the broth tasted mostly of salt.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0043",
+    "text": "Nobody checked on our table after dropping off the food.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0044",
+    "text": "They forgot half the order and seemed annoyed when we asked.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0045",
+    "text": "The pastry was dry, and the coffee tasted burnt.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0046",
+    "text": "I paid extra for avocado and got two tiny brown slices.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0047",
+    "text": "The dining room was noisy and our server kept disappearing.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0048",
+    "text": "My sandwich was soggy before I even got it home.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0049",
+    "text": "The menu sounded interesting, but everything we tried was bland.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0050",
+    "text": "We were seated quickly, then ignored for nearly forty minutes.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0051",
+    "text": "The dumplings came out hot with a wonderfully crisp bottom.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0052",
+    "text": "Our server remembered the allergy and checked every dish for us.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0053",
+    "text": "The little patio is a lovely spot for a leisurely lunch.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0054",
+    "text": "That lemon cake was light, tart, and worth coming back for.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0055",
+    "text": "The portions were generous and the vegetables tasted fresh.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0056",
+    "text": "We walked in late and still received a warm welcome.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0057",
+    "text": "Their spicy broth has a rich flavor without overwhelming the noodles.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0058",
+    "text": "The barista made a smooth cappuccino with perfectly steamed milk.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0059",
+    "text": "Everything arrived together, and the kitchen got each order right.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0060",
+    "text": "The bread was still warm and the roasted garlic spread was delicious.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0061",
+    "text": "The screen protector peeled up around the edges on day two.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0062",
+    "text": "My caller could barely hear me through this headset.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0063",
+    "text": "The plastic latch snapped when I opened the stand.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0064",
+    "text": "It charges much slower than the adapter that came with my phone.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0065",
+    "text": "I bought two and neither one worked out of the package.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0066",
+    "text": "The cable is too short to use comfortably in my car.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0067",
+    "text": "The case covers the side buttons and makes them hard to press.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0068",
+    "text": "After one month the battery indicator no longer works.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0069",
+    "text": "It fits loosely and rattles whenever I pick it up.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0070",
+    "text": "The ear hook hurts after just a few minutes.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0071",
+    "text": "The sound cuts out whenever I turn my head.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0072",
+    "text": "The adhesive left a sticky patch on the back of my tablet.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0073",
+    "text": "It was advertised as compatible, but the connector is the wrong shape.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0074",
+    "text": "The volume wheel turns so easily that it changes in my pocket.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0075",
+    "text": "This dock tips over when I touch the screen.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0076",
+    "text": "The microphone picks up more wind than my voice.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0077",
+    "text": "I waited for a full charge and got only twenty minutes of use.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0078",
+    "text": "The color started rubbing off onto my hands.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0079",
+    "text": "The stand won't hold the tablet at the angle I need.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0080",
+    "text": "There's no padding inside, so the hard clasp scratches the device.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0081",
+    "text": "The headset disconnects as soon as I leave the room.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0082",
+    "text": "The charger makes a high pitched buzzing sound.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0083",
+    "text": "I followed the directions twice and it still won't pair.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0084",
+    "text": "The ear cushion came unglued before the first week was over.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0085",
+    "text": "The picture looked black, but the one I received is bright blue.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0086",
+    "text": "The soft lining keeps my screen from getting scratched.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0087",
+    "text": "This adapter solved the problem with my older headphones.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0088",
+    "text": "The charging light is small enough not to bother me at night.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0089",
+    "text": "I can hear directions clearly through the car speaker.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0090",
+    "text": "It was ready to use straight out of the box.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0091",
+    "text": "The rubber grip makes the phone much easier to hold.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0092",
+    "text": "I've dropped it twice and the corners are still intact.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0093",
+    "text": "The connector clicks into place and doesn't come loose.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0094",
+    "text": "It's compact enough to leave in my travel pouch.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0095",
+    "text": "The extra ear tips helped me get a comfortable fit.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0096",
+    "text": "Music sounds clean without the harsh treble I expected.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0097",
+    "text": "I can take calls all afternoon without recharging it.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0098",
+    "text": "The stand folds flat and takes up very little space.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0099",
+    "text": "My tablet stays steady even when I tap the screen.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0100",
+    "text": "The cable has survived months of being stuffed into my backpack.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0101",
+    "text": "The controls are simple enough to use while wearing gloves.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0102",
+    "text": "Both USB ports charge my devices at the same time.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0103",
+    "text": "It paired with my laptop as easily as with my phone.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0104",
+    "text": "The fabric cord doesn't tangle as much as my old one.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0105",
+    "text": "A simple cover that fits properly and protects the corners.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0106",
+    "text": "The little carrying pouch is a nice addition.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0107",
+    "text": "I like the adjustable clip; it stays put on my sun visor.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0108",
+    "text": "The other person said my voice came through clearly.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0109",
+    "text": "The display is bright enough to read in daylight.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0110",
+    "text": "This replacement battery brought my old phone back to life.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0111",
+    "text": "The villain has no personality beyond scowling at the camera.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0112",
+    "text": "I guessed the big reveal during the first conversation.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0113",
+    "text": "The soundtrack keeps telling us how to feel instead of letting the scene work.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0114",
+    "text": "None of the supposedly witty exchanges made me smile.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0115",
+    "text": "A talented cast is wasted on a story that goes nowhere.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0116",
+    "text": "The editing jumps around so much that I lost track of the action.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0117",
+    "text": "I kept waiting for the characters to behave like actual people.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0118",
+    "text": "The ending abandons every interesting question the film raises.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0119",
+    "text": "Those digital effects looked cheap even on a small screen.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0120",
+    "text": "There's a good idea buried somewhere under all that exposition.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0121",
+    "text": "The child actor is fine, but the adults are painfully wooden.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0122",
+    "text": "It mistakes a gloomy color palette for an actual mood.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0123",
+    "text": "The film insists these strangers are in love without showing us why.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0124",
+    "text": "For a comedy about a wedding, it is remarkably joyless.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0125",
+    "text": "The second half turns a delicate drama into a silly chase.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0126",
+    "text": "I found the narration distracting and completely unnecessary.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0127",
+    "text": "Every conflict is resolved by someone suddenly changing their mind.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0128",
+    "text": "The camera shakes so much that the fight is impossible to follow.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0129",
+    "text": "It has the pace of a television episode stretched to two hours.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0130",
+    "text": "The movie never decides whether its main character is funny or cruel.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0131",
+    "text": "I enjoyed the first ten minutes; the rest was a chore.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0132",
+    "text": "The supporting characters exist only to praise the hero.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0133",
+    "text": "The jokes about the neighbor get old the third time around.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0134",
+    "text": "An abrupt ending can't disguise how little actually happened.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0135",
+    "text": "The score is louder than half the dialogue.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0136",
+    "text": "The opening scene immediately drew me into this strange little town.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0137",
+    "text": "I appreciated that the film let its characters disagree without easy answers.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0138",
+    "text": "The sisters have a natural chemistry that carries every scene.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0139",
+    "text": "A clever script turns an ordinary bus ride into a tense encounter.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0140",
+    "text": "The villain is unsettling precisely because he rarely raises his voice.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0141",
+    "text": "I wasn't expecting a musical number there, but it was delightful.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0142",
+    "text": "The film finds warmth in a story that could have been bleak.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0143",
+    "text": "The last shot gives the entire journey a new meaning.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0144",
+    "text": "A modest production with performances far stronger than its budget suggests.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0145",
+    "text": "The jokes feel spontaneous, especially during the disastrous dinner.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0146",
+    "text": "I loved the way the city changes with each season.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0147",
+    "text": "The lead actor communicates so much with a single glance.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0148",
+    "text": "It balances the suspense with a surprisingly tender family story.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0149",
+    "text": "The dialogue sounds like people who have known each other for years.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0150",
+    "text": "A thoughtful ending that trusts the audience to fill in the gaps.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0151",
+    "text": "The practical effects give the creatures a wonderfully tangible quality.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0152",
+    "text": "Each member of the ensemble gets a memorable moment.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0153",
+    "text": "I watched it for the mystery and stayed for the friendship.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0154",
+    "text": "The gentle pacing lets the emotions develop naturally.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0155",
+    "text": "That courtroom exchange is one of the best scenes I've seen this year.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0156",
+    "text": "The director uses silence more effectively than most thrillers use music.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0157",
+    "text": "Its playful animation suits the story perfectly.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0158",
+    "text": "The grandfather's stubbornness is funny and heartbreaking at the same time.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0159",
+    "text": "I left the film wanting to spend more time with these characters.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0160",
+    "text": "Even the smaller roles feel carefully observed.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0161",
+    "text": "The rice was undercooked and crunchy in the middle.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0162",
+    "text": "We booked a table but still waited outside in the rain.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0163",
+    "text": "The salad had wilted leaves and hardly any dressing.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0164",
+    "text": "My tea arrived lukewarm with the bag already removed.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0165",
+    "text": "The fries were greasy and tasted like old oil.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0166",
+    "text": "They charged us for a side dish that never arrived.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0167",
+    "text": "The staff rushed us out before we had finished eating.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0168",
+    "text": "I asked for mild salsa and couldn't eat the fiery one they brought.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0169",
+    "text": "The tables were sticky and the floor needed a sweep.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0170",
+    "text": "The burger bun fell apart and the patty was dry.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0171",
+    "text": "We had to ask three times for water refills.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0172",
+    "text": "There was almost no filling in the expensive little wrap.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0173",
+    "text": "The fish tasted fine, but it was full of bones.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0174",
+    "text": "The delivery arrived so late that the ice cream had melted.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0175",
+    "text": "I couldn't taste any coffee in the watery latte.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0176",
+    "text": "The pasta sauce was sweet in a really unpleasant way.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0177",
+    "text": "Our reservation seemed to mean nothing to the host.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0178",
+    "text": "The pancakes were raw in the center.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0179",
+    "text": "The music was so loud we couldn't hear each other talk.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0180",
+    "text": "I found the service unfriendly from the moment we walked in.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0181",
+    "text": "The supposedly fresh bread was hard around every edge.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0182",
+    "text": "My vegetarian order came with bacon on top.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0183",
+    "text": "The curry had plenty of heat but almost no other flavor.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0184",
+    "text": "We got the bill quickly; getting our meals was another story.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0185",
+    "text": "The tiny cup of soup was nowhere near worth the price.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0186",
+    "text": "The roasted tomatoes added a lovely sweetness to the pasta.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0187",
+    "text": "They brought crayons for the kids before we even asked.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0188",
+    "text": "My omelet was fluffy and filled with fresh herbs.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0189",
+    "text": "The staff handled our large group with patience and good humor.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0190",
+    "text": "I could eat a whole bowl of that garlic sauce.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0191",
+    "text": "The crust had just the right amount of char.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0192",
+    "text": "We split the special and still had plenty to take home.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0193",
+    "text": "The mint tea was fragrant and served in a beautiful little pot.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0194",
+    "text": "A friendly neighborhood spot with excellent homemade soup.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0195",
+    "text": "The server explained the menu without making us feel rushed.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0196",
+    "text": "The grilled vegetables had a nice smoky flavor.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0197",
+    "text": "They replaced my drink promptly when I ordered the wrong size.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0198",
+    "text": "The biscuits were tender inside with golden tops.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0199",
+    "text": "Our takeout was packed carefully and stayed hot on the trip home.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0200",
+    "text": "I loved the contrast between the crunchy slaw and tender pork.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0201",
+    "text": "The lunch special is filling and reasonably priced.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0202",
+    "text": "Even on a busy night, our food arrived surprisingly quickly.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0203",
+    "text": "The owner stopped by to ask how we liked our meal.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0204",
+    "text": "That spicy dipping sauce made the whole dish for me.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0205",
+    "text": "The espresso was smooth, rich, and not at all bitter.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0206",
+    "text": "The fresh berries made the waffle taste like a real treat.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0207",
+    "text": "They had several dairy-free options that actually sounded appealing.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0208",
+    "text": "The rice was fragrant and the chicken was beautifully grilled.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0209",
+    "text": "We shared three appetizers and enjoyed every single one.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0210",
+    "text": "The cozy booth made a rainy evening feel special.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0211",
+    "text": "The power switch is recessed so deeply that I need a pen to reach it.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0212",
+    "text": "The new filter made no difference to the crackling sound.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0213",
+    "text": "I have to restart the receiver every time I turn on the TV.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0214",
+    "text": "The strap keeps slipping off the buckle.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0215",
+    "text": "It takes up both outlets on my power strip.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0216",
+    "text": "The advertised capacity is nowhere near what I measured.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0217",
+    "text": "The charging port feels loose after only a handful of uses.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0218",
+    "text": "It heats up enough that I don't feel comfortable leaving it plugged in.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0219",
+    "text": "The light flashes constantly, even when the device is idle.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0220",
+    "text": "The remote works only if I point it directly at the sensor.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0221",
+    "text": "The device arrived without the mounting screws shown in the instructions.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0222",
+    "text": "I wish the cord were replaceable because the plug has already frayed.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0223",
+    "text": "The touchscreen responds poorly through this thick cover.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0224",
+    "text": "The Bluetooth connection introduces a noticeable delay in videos.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0225",
+    "text": "This replacement is louder than the broken fan it was meant to fix.",
+    "label": 0,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0226",
+    "text": "The small remote is easy to use from across the room.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0227",
+    "text": "The padded strap spreads the weight comfortably across my shoulder.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0228",
+    "text": "It recognizes my device quickly every time I plug it in.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0229",
+    "text": "The indicator turns off when charging is complete, which I appreciate.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0230",
+    "text": "The mount stayed secure over a week of bumpy roads.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0231",
+    "text": "I can use the touch controls without taking off the cover.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0232",
+    "text": "The extra length lets me charge my phone from the sofa.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0233",
+    "text": "The fan runs quietly enough that I can work beside it.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0234",
+    "text": "All the pieces were labeled, so assembly took only minutes.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0235",
+    "text": "The plug fits snugly without blocking the socket beside it.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0236",
+    "text": "This little hub gave my laptop the ports it was missing.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0237",
+    "text": "The magnetic closure is secure but still easy to open.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0238",
+    "text": "The screen protector went on without a single bubble.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0239",
+    "text": "The speaker fills my kitchen with sound without distortion.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0240",
+    "text": "The battery level display is easy to read at a glance.",
+    "label": 1,
+    "source": "amazon"
+  },
+  {
+    "id": "synthetic_codex_0241",
+    "text": "The film spells out its message in every conversation.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0242",
+    "text": "I couldn't tell the two detectives apart, and the script didn't help.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0243",
+    "text": "The monster is shown so often that it stops being frightening.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0244",
+    "text": "What should have been a moving reunion felt strangely flat.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0245",
+    "text": "The plot relies on everyone ignoring the most obvious clue.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0246",
+    "text": "The flashbacks interrupt the story just as it starts to gain momentum.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0247",
+    "text": "I found the supposedly charming hero rather smug.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0248",
+    "text": "The action scenes are loud but have no sense of danger.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0249",
+    "text": "Its attempt at satire is too obvious to be funny.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0250",
+    "text": "The final speech explains a theme the film had already made clear.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0251",
+    "text": "The romance begins so abruptly that I thought I'd missed a scene.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0252",
+    "text": "There are too many side plots and none gets a satisfying ending.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0253",
+    "text": "The dialogue sounds as if every character is reading an essay.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0254",
+    "text": "The child disappears from the story whenever the plot needs him to.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0255",
+    "text": "The beautiful photography can't hide the lifeless performances.",
+    "label": 0,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0256",
+    "text": "The film captures the awkwardness of meeting an old friend again.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0257",
+    "text": "A small gesture at the station says more than a long speech could.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0258",
+    "text": "The mystery plays fair and rewards a second viewing.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0259",
+    "text": "I admired how the film gave even its antagonist a point of view.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0260",
+    "text": "The changing weather adds a lovely texture to the journey.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0261",
+    "text": "Her performance makes a familiar story feel fresh.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0262",
+    "text": "The action is easy to follow and exciting without being exhausting.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0263",
+    "text": "The dinner scene is funny because nobody says what they mean.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0264",
+    "text": "A simple premise becomes a surprisingly moving portrait of grief.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0265",
+    "text": "I enjoyed the quiet affection between the two neighbors.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0266",
+    "text": "The costume design tells us a lot about each character.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0267",
+    "text": "The story's optimism feels earned rather than forced.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0268",
+    "text": "The background characters give the village a real sense of life.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0269",
+    "text": "The final conversation made me rethink the opening scene.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0270",
+    "text": "A sharp, funny script performed by an excellent ensemble.",
+    "label": 1,
+    "source": "imdb"
+  },
+  {
+    "id": "synthetic_codex_0271",
+    "text": "The delivery driver left the bag outside without ringing the bell.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0272",
+    "text": "The grilled cheese was barely warm and the cheese hadn't melted.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0273",
+    "text": "The cashier entered the wrong order and wouldn't correct it.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0274",
+    "text": "The lemon in my water tasted stale.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0275",
+    "text": "The room smelled strongly of cleaning fluid while we ate.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0276",
+    "text": "They ran out of the special but told us only after we ordered.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0277",
+    "text": "The beans were cold and the tortillas were stiff.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0278",
+    "text": "I waited at the counter while three employees chatted behind it.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0279",
+    "text": "The milkshake was thin and had hardly any chocolate flavor.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0280",
+    "text": "Our plates arrived fifteen minutes apart.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0281",
+    "text": "The sandwich had more mayonnaise than anything else.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0282",
+    "text": "The coffee shop had no clean cups despite being nearly empty.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0283",
+    "text": "The pizza toppings slid off the wet, doughy base.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0284",
+    "text": "The check included an extra drink that nobody at our table ordered.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0285",
+    "text": "The dessert looked lovely but tasted overwhelmingly artificial.",
+    "label": 0,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0286",
+    "text": "The lentil soup was comforting without being too heavy.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0287",
+    "text": "They toasted the bread just enough to give the sandwich some crunch.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0288",
+    "text": "The waiter suggested a tea that paired beautifully with dessert.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0289",
+    "text": "I appreciated the clearly marked gluten-free choices.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0290",
+    "text": "The kitchen added extra chili exactly as I requested.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0291",
+    "text": "Our dog was welcome on the patio and even got a bowl of water.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0292",
+    "text": "The mushrooms were perfectly browned and seasoned.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0293",
+    "text": "A quick breakfast here turned into the best meal of our trip.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0294",
+    "text": "The staff found us a quieter table when we asked.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0295",
+    "text": "The tart had a crisp shell and a bright citrus filling.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0296",
+    "text": "My order was ready when I arrived and everything was still warm.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0297",
+    "text": "The portions are modest but every ingredient tastes carefully prepared.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0298",
+    "text": "The house-made pickles gave the sandwich a nice sharp bite.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0299",
+    "text": "Our server gave honest recommendations and didn't push the expensive dishes.",
+    "label": 1,
+    "source": "yelp"
+  },
+  {
+    "id": "synthetic_codex_0300",
+    "text": "The beans were creamy and the rice was nicely seasoned.",
+    "label": 1,
+    "source": "yelp"
+  }
+]
