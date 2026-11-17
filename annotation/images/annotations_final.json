@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "cat_001_387cbe09952f46cf",
+    "image_filename": "cat_001_387cbe09952f46cf.jpg",
+    "image_width": 970,
+    "image_height": 768,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 18.653153940241122,
+      "y_min": 2.033898305084746,
+      "x_max": 74.88100646514062,
+      "y_max": 83.72881355932198
+    },
+    "iou_A1_A2": 0.8042719480421047,
+    "selection_method": "A1"
+  },
+  {
+    "id": "cat_002_b1a30c5d499d3030",
+    "image_filename": "cat_002_b1a30c5d499d3030.jpg",
+    "image_width": 1024,
+    "image_height": 768,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 22.86486773987661,
+      "y_min": 3.538046947025034,
+      "x_max": 71.26267640592866,
+      "y_max": 64.68489232442144
+    },
+    "iou_A1_A2": 0.9653941462027649,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_003_2fb1a38610ed6936",
+    "image_filename": "cat_003_2fb1a38610ed6936.jpg",
+    "image_width": 1024,
+    "image_height": 683,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 32.09398100223184,
+      "y_min": 0.2789400278940028,
+      "x_max": 73.46506473485431,
+      "y_max": 74.60057204622144
+    },
+    "iou_A1_A2": 0.9398672374319966,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_005_a1b616760f3a3dcc",
+    "image_filename": "cat_005_a1b616760f3a3dcc.jpg",
+    "image_width": 1024,
+    "image_height": 683,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 23.62083401371162,
+      "y_min": 0.1560983673178746,
+      "x_max": 90.80564231424623,
+      "y_max": 87.42048811314811
+    },
+    "iou_A1_A2": 0.9352086133615972,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_006_41e12130140fc5b9",
+    "image_filename": "cat_006_41e12130140fc5b9.jpg",
+    "image_width": 1024,
+    "image_height": 683,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 41.99148452613939,
+      "y_min": 16.7089684899926,
+      "x_max": 78.30987365199734,
+      "y_max": 75.12197380177776
+    },
+    "iou_A1_A2": 0.9590658093190507,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_007_6148de607e99704f",
+    "image_filename": "cat_007_6148de607e99704f.jpg",
+    "image_width": 1024,
+    "image_height": 768,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 27.33050847457627,
+      "y_min": 0.5084745762711864,
+      "x_max": 93.05084745762713,
+      "y_max": 75.9322033898305
+    },
+    "iou_A1_A2": 0.8189243307024795,
+    "selection_method": "A1"
+  },
+  {
+    "id": "cat_008_9b507a180abd1c0a",
+    "image_filename": "cat_008_9b507a180abd1c0a.jpg",
+    "image_width": 1024,
+    "image_height": 768,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 32.03389830508475,
+      "y_min": 11.525423728813559,
+      "x_max": 73.09322033898306,
+      "y_max": 62.71186440677966
+    },
+    "iou_A1_A2": 0.8656562964323979,
+    "selection_method": "A1"
+  },
+  {
+    "id": "cat_009_479b1ea3d61d4035",
+    "image_filename": "cat_009_479b1ea3d61d4035.jpg",
+    "image_width": 1024,
+    "image_height": 768,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 32.73881285015247,
+      "y_min": 14.007399002434816,
+      "x_max": 66.91626480391461,
+      "y_max": 62.80642034843865
+    },
+    "iou_A1_A2": 0.9714282268810142,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_010_d0fe01a71f83d22d",
+    "image_filename": "cat_010_d0fe01a71f83d22d.jpg",
+    "image_width": 1024,
+    "image_height": 683,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 24.710659411072598,
+      "y_min": 26.25404043673384,
+      "x_max": 62.48667801768602,
+      "y_max": 74.92617554073814
+    },
+    "iou_A1_A2": 0.9342322101761126,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_011_bbd5ccb7da52f180",
+    "image_filename": "cat_011_bbd5ccb7da52f180.jpg",
+    "image_width": 1024,
+    "image_height": 681,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 18.40319330548465,
+      "y_min": 0.46917035887544145,
+      "x_max": 76.36466010642444,
+      "y_max": 92.05794411047378
+    },
+    "iou_A1_A2": 0.9834989778171483,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_012_d6017b24eee8a0f8",
+    "image_filename": "cat_012_d6017b24eee8a0f8.jpg",
+    "image_width": 1024,
+    "image_height": 683,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 43.4331797235023,
+      "y_min": 4.145441296529947,
+      "x_max": 72.11981566820278,
+      "y_max": 54.236190296266805
+    },
+    "iou_A1_A2": 0.8854479884156103,
+    "selection_method": "A1"
+  },
+  {
+    "id": "cat_013_7148fe6b6643b939",
+    "image_filename": "cat_013_7148fe6b6643b939.jpg",
+    "image_width": 1024,
+    "image_height": 768,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 22.90591092830296,
+      "y_min": 0.15448076968536512,
+      "x_max": 76.7418977377491,
+      "y_max": 79.72425123513699
+    },
+    "iou_A1_A2": 0.9478524569810418,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_015_56a1e9f45b126934",
+    "image_filename": "cat_015_56a1e9f45b126934.jpg",
+    "image_width": 1024,
+    "image_height": 768,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 62.03389830508475,
+      "y_min": 12.711864406779661,
+      "x_max": 79.1949152542373,
+      "y_max": 43.728813559322035
+    },
+    "iou_A1_A2": 0.8835988385273734,
+    "selection_method": "A1"
+  },
+  {
+    "id": "cat_017_6d172bf08dd36382",
+    "image_filename": "cat_017_6d172bf08dd36382.jpg",
+    "image_width": 1024,
+    "image_height": 1024,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 18.836016358177908,
+      "y_min": 5.825236980828783,
+      "x_max": 51.87362598397277,
+      "y_max": 37.81150273030281
+    },
+    "iou_A1_A2": 0.9746038895174691,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_018_05ac515445e2b12f",
+    "image_filename": "cat_018_05ac515445e2b12f.jpg",
+    "image_width": 908,
+    "image_height": 1024,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 15.072167114922227,
+      "y_min": 6.47318157104697,
+      "x_max": 88.45877459873344,
+      "y_max": 85.78871474836299
+    },
+    "iou_A1_A2": 0.9303082449492508,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_021_1daaa601cc9b389f",
+    "image_filename": "cat_021_1daaa601cc9b389f.jpg",
+    "image_width": 768,
+    "image_height": 1024,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 54.720784183942826,
+      "y_min": 11.426258184998701,
+      "x_max": 91.26287339747378,
+      "y_max": 42.31614779093681
+    },
+    "iou_A1_A2": 0.9355108488248367,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_022_99b3d74916f5ccda",
+    "image_filename": "cat_022_99b3d74916f5ccda.jpg",
+    "image_width": 1024,
+    "image_height": 768,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 39.84336217289554,
+      "y_min": 27.830295723707536,
+      "x_max": 64.61031132543792,
+      "y_max": 65.43791220480816
+    },
+    "iou_A1_A2": 0.9214417279856476,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_024_cc2a3e52994f7b80",
+    "image_filename": "cat_024_cc2a3e52994f7b80.jpg",
+    "image_width": 1024,
+    "image_height": 683,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 40.32258064516129,
+      "y_min": 16.409038465431042,
+      "x_max": 62.78801843317973,
+      "y_max": 62.354346168637946
+    },
+    "iou_A1_A2": 0.7921830462489509,
+    "selection_method": "A1"
+  },
+  {
+    "id": "cat_025_dee23d060fb789ba",
+    "image_filename": "cat_025_dee23d060fb789ba.jpg",
+    "image_width": 1024,
+    "image_height": 768,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 22.476242819658182,
+      "y_min": 12.607380091246483,
+      "x_max": 59.90107084603929,
+      "y_max": 87.88608372928633
+    },
+    "iou_A1_A2": 0.9228356854245139,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_026_3fca942352af44dc",
+    "image_filename": "cat_026_3fca942352af44dc.jpg",
+    "image_width": 1024,
+    "image_height": 768,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 57.36011630380824,
+      "y_min": 0.1694915254237288,
+      "x_max": 84.63096588894405,
+      "y_max": 41.464316951516444
+    },
+    "iou_A1_A2": 0.9270067215682851,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_027_8f504fe7ad9d16f4",
+    "image_filename": "cat_027_8f504fe7ad9d16f4.jpg",
+    "image_width": 1024,
+    "image_height": 681,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 25.443178711326983,
+      "y_min": 1.2172807456448858,
+      "x_max": 62.02756895641774,
+      "y_max": 58.45558109685794
+    },
+    "iou_A1_A2": 0.934718538675443,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_028_03ff0c4a800af9ec",
+    "image_filename": "cat_028_03ff0c4a800af9ec.jpg",
+    "image_width": 1024,
+    "image_height": 685,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 45.16129032258064,
+      "y_min": 0.17222240909549597,
+      "x_max": 90.09216589861751,
+      "y_max": 68.0278515927209
+    },
+    "iou_A1_A2": 0.8824701679151802,
+    "selection_method": "A1"
+  },
+  {
+    "id": "cat_029_84a3b36435d8a934",
+    "image_filename": "cat_029_84a3b36435d8a934.jpg",
+    "image_width": 1024,
+    "image_height": 683,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 24.3496487540893,
+      "y_min": 0.0697350069735007,
+      "x_max": 71.6442758194265,
+      "y_max": 72.1861399359899
+    },
+    "iou_A1_A2": 0.9657199820246078,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_030_bbb60c5612dec65e",
+    "image_filename": "cat_030_bbb60c5612dec65e.jpg",
+    "image_width": 1024,
+    "image_height": 1013,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 12.969700060981197,
+      "y_min": 1.1113868992742832,
+      "x_max": 69.83653168344296,
+      "y_max": 56.05961752121598
+    },
+    "iou_A1_A2": 0.9480291481364681,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_032_040983ac9ee15126",
+    "image_filename": "cat_032_040983ac9ee15126.jpg",
+    "image_width": 1024,
+    "image_height": 761,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 6.958456122164799,
+      "y_min": 3.732241212207172,
+      "x_max": 66.53200732476125,
+      "y_max": 81.5877124553814
+    },
+    "iou_A1_A2": 0.9642040945030247,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_033_151e0d8fc3923605",
+    "image_filename": "cat_033_151e0d8fc3923605.jpg",
+    "image_width": 835,
+    "image_height": 768,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 32.46763405321829,
+      "y_min": 4.489634304895633,
+      "x_max": 91.66915668698061,
+      "y_max": 63.847126681322834
+    },
+    "iou_A1_A2": 0.9057253893891888,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_034_877143d4956ef2dc",
+    "image_filename": "cat_034_877143d4956ef2dc.jpg",
+    "image_width": 1024,
+    "image_height": 768,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 32.66949152542373,
+      "y_min": 2.8813559322033897,
+      "x_max": 69.66101694915254,
+      "y_max": 53.72881355932203
+    },
+    "iou_A1_A2": 0.8686403761631,
+    "selection_method": "A1"
+  },
+  {
+    "id": "cat_035_416262b5ff2b64c2",
+    "image_filename": "cat_035_416262b5ff2b64c2.jpg",
+    "image_width": 1024,
+    "image_height": 683,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 34.04786169913201,
+      "y_min": 0.0863633603443739,
+      "x_max": 82.8198043377705,
+      "y_max": 66.91205215392391
+    },
+    "iou_A1_A2": 0.9119293283351992,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_036_e9474ed1086b1563",
+    "image_filename": "cat_036_e9474ed1086b1563.jpg",
+    "image_width": 1024,
+    "image_height": 768,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 26.313559322033896,
+      "y_min": 25.254237288135595,
+      "x_max": 51.22881355932204,
+      "y_max": 60.847457627118644
+    },
+    "iou_A1_A2": 0.8576323308883367,
+    "selection_method": "A1"
+  },
+  {
+    "id": "cat_037_c1d579234ea331cc",
+    "image_filename": "cat_037_c1d579234ea331cc.jpg",
+    "image_width": 1024,
+    "image_height": 683,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 34.76558545772034,
+      "y_min": 2.567308884059494,
+      "x_max": 72.82497784879152,
+      "y_max": 65.71637186898353
+    },
+    "iou_A1_A2": 0.9486545728378066,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_038_995d46a87c9a7e0f",
+    "image_filename": "cat_038_995d46a87c9a7e0f.jpg",
+    "image_width": 1024,
+    "image_height": 768,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 51.275796042833846,
+      "y_min": 0.0847457627118644,
+      "x_max": 88.0504928728459,
+      "y_max": 47.85712597215327
+    },
+    "iou_A1_A2": 0.9447082455012505,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_040_44221f31a243f493",
+    "image_filename": "cat_040_44221f31a243f493.jpg",
+    "image_width": 768,
+    "image_height": 1024,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 24.17779668896611,
+      "y_min": 15.382715173864739,
+      "x_max": 83.9078394755297,
+      "y_max": 62.10907027870364
+    },
+    "iou_A1_A2": 0.9564146536692677,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_041_a218759a9d1b92ca",
+    "image_filename": "cat_041_a218759a9d1b92ca.jpg",
+    "image_width": 1022,
+    "image_height": 1024,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 33.83638667144257,
+      "y_min": 8.575869323688627,
+      "x_max": 64.76197507747781,
+      "y_max": 39.186818901732735
+    },
+    "iou_A1_A2": 0.9302126326004304,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_042_7b9cecd0c81737d0",
+    "image_filename": "cat_042_7b9cecd0c81737d0.jpg",
+    "image_width": 1024,
+    "image_height": 768,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 32.83215729380895,
+      "y_min": 0.15448076968536512,
+      "x_max": 83.87224310332601,
+      "y_max": 72.78762735503392
+    },
+    "iou_A1_A2": 0.9800998709989195,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_043_9f58e51ed03029b4",
+    "image_filename": "cat_043_9f58e51ed03029b4.jpg",
+    "image_width": 1024,
+    "image_height": 768,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 42.574994681228276,
+      "y_min": 14.59530056969955,
+      "x_max": 72.79864903198354,
+      "y_max": 58.39621303453656
+    },
+    "iou_A1_A2": 0.9135906270860474,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_044_0d2eb362375d5d44",
+    "image_filename": "cat_044_0d2eb362375d5d44.jpg",
+    "image_width": 1024,
+    "image_height": 907,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 17.71484375,
+      "y_min": 12.54237288135593,
+      "x_max": 54.045286016949156,
+      "y_max": 59.83050847457627
+    },
+    "iou_A1_A2": 0.8874719695291264,
+    "selection_method": "A1"
+  },
+  {
+    "id": "cat_045_cb6997591bd9d9ff",
+    "image_filename": "cat_045_cb6997591bd9d9ff.jpg",
+    "image_width": 1024,
+    "image_height": 683,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 36.666160023362835,
+      "y_min": 20.61464926642947,
+      "x_max": 53.37989047617039,
+      "y_max": 46.5897496752693
+    },
+    "iou_A1_A2": 0.9192727333120447,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_049_a555d218a3e96740",
+    "image_filename": "cat_049_a555d218a3e96740.jpg",
+    "image_width": 1024,
+    "image_height": 768,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 29.7489539748954,
+      "y_min": 15.312980166891238,
+      "x_max": 58.24196865470534,
+      "y_max": 51.88863673971113
+    },
+    "iou_A1_A2": 0.9675482075848502,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_050_a5c88f3fd6ed0c54",
+    "image_filename": "cat_050_a5c88f3fd6ed0c54.jpg",
+    "image_width": 1024,
+    "image_height": 768,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 22.5,
+      "y_min": 4.745762711864407,
+      "x_max": 51.99152542372881,
+      "y_max": 49.152542372881356
+    },
+    "iou_A1_A2": 0.8797547627160817,
+    "selection_method": "A1"
+  },
+  {
+    "id": "cat_051_6e7cbc79462cae83",
+    "image_filename": "cat_051_6e7cbc79462cae83.jpg",
+    "image_width": 1024,
+    "image_height": 683,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 26.618027403126185,
+      "y_min": 7.007798175933484,
+      "x_max": 79.88950393243579,
+      "y_max": 78.31367615510877
+    },
+    "iou_A1_A2": 0.9069946480286452,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_052_8d207f7ea5da29f1",
+    "image_filename": "cat_052_8d207f7ea5da29f1.jpg",
+    "image_width": 768,
+    "image_height": 786,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 31.201017436706614,
+      "y_min": 11.187031652601469,
+      "x_max": 67.23628495614969,
+      "y_max": 48.4900598066331
+    },
+    "iou_A1_A2": 0.9465075043286684,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_053_d3831aa42d49c77f",
+    "image_filename": "cat_053_d3831aa42d49c77f.jpg",
+    "image_width": 7360,
+    "image_height": 4912,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 18.28343800653709,
+      "y_min": 2.082294534654324,
+      "x_max": 62.49911869027006,
+      "y_max": 62.97034997579147
+    },
+    "iou_A1_A2": 0.9608819437304753,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_055_f5d4b977e657f7d1",
+    "image_filename": "cat_055_f5d4b977e657f7d1.jpg",
+    "image_width": 1024,
+    "image_height": 768,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 28.739982979930502,
+      "y_min": 1.9535257546746094,
+      "x_max": 84.27939507836325,
+      "y_max": 74.25300806089402
+    },
+    "iou_A1_A2": 0.9157990637530239,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_056_63a3246b8a551a29",
+    "image_filename": "cat_056_63a3246b8a551a29.jpg",
+    "image_width": 1024,
+    "image_height": 1024,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 10.68824906035033,
+      "y_min": 2.2227737985485665,
+      "x_max": 98.8188780937522,
+      "y_max": 84.63229558187362
+    },
+    "iou_A1_A2": 0.947904359464329,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_057_7b13b4043cdbfd60",
+    "image_filename": "cat_057_7b13b4043cdbfd60.jpg",
+    "image_width": 1024,
+    "image_height": 683,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 41.9317320618143,
+      "y_min": 2.7234072513773686,
+      "x_max": 77.74492776742733,
+      "y_max": 58.94781382722229
+    },
+    "iou_A1_A2": 0.960267041078797,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_058_15273d7e0ae873d3",
+    "image_filename": "cat_058_15273d7e0ae873d3.jpg",
+    "image_width": 1024,
+    "image_height": 768,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 22.5,
+      "y_min": 7.457627118644068,
+      "x_max": 54.788135593220346,
+      "y_max": 57.11864406779661
+    },
+    "iou_A1_A2": 0.8640284217702545,
+    "selection_method": "A1"
+  },
+  {
+    "id": "cat_060_e5c7a30583687191",
+    "image_filename": "cat_060_e5c7a30583687191.jpg",
+    "image_width": 1024,
+    "image_height": 768,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 20.18154740798525,
+      "y_min": 7.5245254473677985,
+      "x_max": 47.325278349053264,
+      "y_max": 46.06871853060067
+    },
+    "iou_A1_A2": 0.9044596399985676,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_065_88c400cc5db9f659",
+    "image_filename": "cat_065_88c400cc5db9f659.jpg",
+    "image_width": 1024,
+    "image_height": 679,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 51.157500753688396,
+      "y_min": 0.17374425659854897,
+      "x_max": 99.94239631336406,
+      "y_max": 74.2460203793403
+    },
+    "iou_A1_A2": 0.9639812535216581,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_066_f360fb54d886b791",
+    "image_filename": "cat_066_f360fb54d886b791.jpg",
+    "image_width": 1024,
+    "image_height": 683,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 47.3701151601736,
+      "y_min": 4.6529159062845,
+      "x_max": 79.51490642263029,
+      "y_max": 53.829824412474174
+    },
+    "iou_A1_A2": 0.9282158612979492,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "cat_068_7eb93ca379d3abb0",
+    "image_filename": "cat_068_7eb93ca379d3abb0.jpg",
+    "image_width": 1024,
+    "image_height": 768,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 38.434508190908446,
+      "y_min": 6.318700801361605,
+      "x_max": 78.57643074959223,
+      "y_max": 52.77048909060824
+    },
+    "iou_A1_A2": 0.9299375068969467,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "dog_001_b532810d1098bb11",
+    "image_filename": "dog_001_b532810d1098bb11.jpg",
+    "image_width": 768,
+    "image_height": 768,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 21.98035600312035,
+      "y_min": 10.484362811148145,
+      "x_max": 60.37976030068789,
+      "y_max": 41.64350046096021
+    },
+    "iou_A1_A2": 0.9666913102806313,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "dog_002_0bdabef3cf2a29d3",
+    "image_filename": "dog_002_0bdabef3cf2a29d3.jpg",
+    "image_width": 1024,
+    "image_height": 768,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 31.779661016949156,
+      "y_min": 5.932203389830509,
+      "x_max": 74.4915254237288,
+      "y_max": 65.9322033898305
+    },
+    "iou_A1_A2": 0.6181443404640168,
+    "selection_method": "A1"
+  },
+  {
+    "id": "dog_003_7eed285dcddd50fc",
+    "image_filename": "dog_003_7eed285dcddd50fc.jpg",
+    "image_width": 1024,
+    "image_height": 769,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 22.943014786000695,
+      "y_min": 0.0847457627118644,
+      "x_max": 93.03034386967238,
+      "y_max": 64.13764981207007
+    },
+    "iou_A1_A2": 0.9148467056049866,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "dog_004_635f8393ec9d3e3b",
+    "image_filename": "dog_004_635f8393ec9d3e3b.jpg",
+    "image_width": 1024,
+    "image_height": 768,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 45.889830508474574,
+      "y_min": 15.084745762711865,
+      "x_max": 72.71186440677967,
+      "y_max": 52.20338983050847
+    },
+    "iou_A1_A2": 0.8776733562011122,
+    "selection_method": "A1"
+  },
+  {
+    "id": "dog_006_e27ccf1f1519a121",
+    "image_filename": "dog_006_e27ccf1f1519a121.jpg",
+    "image_width": 1024,
+    "image_height": 816,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 66.45127118644068,
+      "y_min": 3.728813559322034,
+      "x_max": 94.27436440677967,
+      "y_max": 23.389830508474578
+    },
+    "iou_A1_A2": 0.7747329867481735,
+    "selection_method": "A1"
+  },
+  {
+    "id": "dog_007_8ec6c33282e9639f",
+    "image_filename": "dog_007_8ec6c33282e9639f.jpg",
+    "image_width": 1024,
+    "image_height": 768,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 40.93220338983051,
+      "y_min": 6.9491525423728815,
+      "x_max": 72.71186440677967,
+      "y_max": 64.23728813559322
+    },
+    "iou_A1_A2": 0.8778972582781197,
+    "selection_method": "A1"
+  },
+  {
+    "id": "dog_008_3fa31def321e10bf",
+    "image_filename": "dog_008_3fa31def321e10bf.jpg",
+    "image_width": 1024,
+    "image_height": 745,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 26.38870497881356,
+      "y_min": 5.762711864406779,
+      "x_max": 80.64585540254238,
+      "y_max": 81.69491525423729
+    },
+    "iou_A1_A2": 0.8953866317541487,
+    "selection_method": "A1"
+  },
+  {
+    "id": "dog_010_6734c320b449681f",
+    "image_filename": "dog_010_6734c320b449681f.jpg",
+    "image_width": 683,
+    "image_height": 1024,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 16.354152011274447,
+      "y_min": 8.715339337635628,
+      "x_max": 81.09702336026689,
+      "y_max": 46.21788052856771
+    },
+    "iou_A1_A2": 0.9720757273382872,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "dog_011_9a80fdc7051e4742",
+    "image_filename": "dog_011_9a80fdc7051e4742.jpg",
+    "image_width": 1024,
+    "image_height": 683,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 27.534562211981566,
+      "y_min": 10.018149799947372,
+      "x_max": 75.57603686635944,
+      "y_max": 76.86339070649278
+    },
+    "iou_A1_A2": 0.7218763975961188,
+    "selection_method": "A1"
+  },
+  {
+    "id": "dog_012_bbfca55aad39e322",
+    "image_filename": "dog_012_bbfca55aad39e322.jpg",
+    "image_width": 700,
+    "image_height": 1024,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 4.439612185559281,
+      "y_min": 15.885870978417607,
+      "x_max": 98.26244812086952,
+      "y_max": 78.6825993428362
+    },
+    "iou_A1_A2": 0.9640988944723873,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "dog_013_ab7224e4ed66dc98",
+    "image_filename": "dog_013_ab7224e4ed66dc98.jpg",
+    "image_width": 683,
+    "image_height": 1024,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 35.90580663815244,
+      "y_min": 25.767321466562656,
+      "x_max": 99.80429204370935,
+      "y_max": 81.54268018816633
+    },
+    "iou_A1_A2": 0.9492855677152343,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "dog_014_975763a7444fd8c2",
+    "image_filename": "dog_014_975763a7444fd8c2.jpg",
+    "image_width": 1024,
+    "image_height": 691,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 15.975851115559262,
+      "y_min": 0.08536349510160256,
+      "x_max": 95.20204429066723,
+      "y_max": 89.01823553666787
+    },
+    "iou_A1_A2": 0.9162162468225548,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "dog_015_994d040f8f1d646c",
+    "image_filename": "dog_015_994d040f8f1d646c.jpg",
+    "image_width": 1024,
+    "image_height": 683,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 46.05417257164709,
+      "y_min": 23.633624899071716,
+      "x_max": 83.19655062526513,
+      "y_max": 60.615010807606296
+    },
+    "iou_A1_A2": 0.9542514642598703,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "dog_016_0be1f84400c07dae",
+    "image_filename": "dog_016_0be1f84400c07dae.jpg",
+    "image_width": 1024,
+    "image_height": 683,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 17.972350230414747,
+      "y_min": 0.3454534413774956,
+      "x_max": 76.38248847926268,
+      "y_max": 92.40879556848007
+    },
+    "iou_A1_A2": 0.8830655257063195,
+    "selection_method": "A1"
+  },
+  {
+    "id": "dog_017_6278a38da72871cc",
+    "image_filename": "dog_017_6278a38da72871cc.jpg",
+    "image_width": 1024,
+    "image_height": 685,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 29.41338005046549,
+      "y_min": 0.2953162254682501,
+      "x_max": 90.73727151592095,
+      "y_max": 88.61685378936542
+    },
+    "iou_A1_A2": 0.9426155380522591,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "dog_019_3f24213b4e775e98",
+    "image_filename": "dog_019_3f24213b4e775e98.jpg",
+    "image_width": 1006,
+    "image_height": 1024,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 7.763587963742966,
+      "y_min": 12.203389830508476,
+      "x_max": 80.91383899989891,
+      "y_max": 58.47457627118644
+    },
+    "iou_A1_A2": 0.8761596785148681,
+    "selection_method": "A1"
+  },
+  {
+    "id": "dog_020_bcb34c07ae292c93",
+    "image_filename": "dog_020_bcb34c07ae292c93.jpg",
+    "image_width": 1024,
+    "image_height": 768,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 24.359797177505133,
+      "y_min": 8.197172777344399,
+      "x_max": 62.67046663357209,
+      "y_max": 50.956433349880626
+    },
+    "iou_A1_A2": 0.919257787196064,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "dog_021_40aa64a17297cf66",
+    "image_filename": "dog_021_40aa64a17297cf66.jpg",
+    "image_width": 818,
+    "image_height": 1024,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 24.71441707042227,
+      "y_min": 6.273668534146514,
+      "x_max": 81.07416012100849,
+      "y_max": 58.87998487104933
+    },
+    "iou_A1_A2": 0.901796918483543,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "dog_022_d041e61bbcd01597",
+    "image_filename": "dog_022_d041e61bbcd01597.jpg",
+    "image_width": 1024,
+    "image_height": 746,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 35.19522823994457,
+      "y_min": 17.99387750277758,
+      "x_max": 62.643078652814225,
+      "y_max": 53.00002363898541
+    },
+    "iou_A1_A2": 0.9015091865485942,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "dog_023_5298fb0064c9d18f",
+    "image_filename": "dog_023_5298fb0064c9d18f.jpg",
+    "image_width": 768,
+    "image_height": 1024,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 25.35359982349558,
+      "y_min": 18.497033307330447,
+      "x_max": 91.67482211663474,
+      "y_max": 68.98565113585325
+    },
+    "iou_A1_A2": 0.9478261151788319,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "dog_025_c08edad80db4b4cf",
+    "image_filename": "dog_025_c08edad80db4b4cf.jpg",
+    "image_width": 1024,
+    "image_height": 677,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 37.672811059907836,
+      "y_min": 7.667331477309082,
+      "x_max": 72.6958525345622,
+      "y_max": 60.81587921774704
+    },
+    "iou_A1_A2": 0.8944469167395235,
+    "selection_method": "A1"
+  },
+  {
+    "id": "dog_026_260a5c1644ed480f",
+    "image_filename": "dog_026_260a5c1644ed480f.jpg",
+    "image_width": 1024,
+    "image_height": 1024,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 8.097416258894167,
+      "y_min": 32.170768030636125,
+      "x_max": 60.195258019525795,
+      "y_max": 76.474836300026
+    },
+    "iou_A1_A2": 0.9550473673664409,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "dog_027_3a3358494d860e93",
+    "image_filename": "dog_027_3a3358494d860e93.jpg",
+    "image_width": 1024,
+    "image_height": 681,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 18.251444884493086,
+      "y_min": 10.410457592172275,
+      "x_max": 66.81728924441,
+      "y_max": 74.27612162171961
+    },
+    "iou_A1_A2": 0.9277225936728801,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "dog_028_030033e1b4137e3b",
+    "image_filename": "dog_028_030033e1b4137e3b.jpg",
+    "image_width": 1024,
+    "image_height": 614,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 20.45254190436551,
+      "y_min": 9.480682785199232,
+      "x_max": 68.405758671603,
+      "y_max": 67.06012177056789
+    },
+    "iou_A1_A2": 0.9342390604350479,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "dog_029_5c6757756a6a067c",
+    "image_filename": "dog_029_5c6757756a6a067c.jpg",
+    "image_width": 1024,
+    "image_height": 892,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 24.030598450464502,
+      "y_min": 0.9869276410656455,
+      "x_max": 81.30990820686476,
+      "y_max": 71.10334964423328
+    },
+    "iou_A1_A2": 0.9151730980650782,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "dog_033_2fe698ca53f5c3be",
+    "image_filename": "dog_033_2fe698ca53f5c3be.jpg",
+    "image_width": 1024,
+    "image_height": 768,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 3.782355861286436,
+      "y_min": 11.032550882916105,
+      "x_max": 96.11499184455003,
+      "y_max": 81.17899439756047
+    },
+    "iou_A1_A2": 0.9463648627381082,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "dog_034_4d778851b0f4ce0f",
+    "image_filename": "dog_034_4d778851b0f4ce0f.jpg",
+    "image_width": 1024,
+    "image_height": 768,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 26.69491525423729,
+      "y_min": 19.661016949152543,
+      "x_max": 80.97457627118645,
+      "y_max": 94.57627118644068
+    },
+    "iou_A1_A2": 0.8934441110042505,
+    "selection_method": "A1"
+  },
+  {
+    "id": "dog_035_fbe59eeb48094e5d",
+    "image_filename": "dog_035_fbe59eeb48094e5d.jpg",
+    "image_width": 1024,
+    "image_height": 901,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 49.51204978813559,
+      "y_min": 7.457627118644068,
+      "x_max": 89.77787341101696,
+      "y_max": 67.62711864406779
+    },
+    "iou_A1_A2": 0.853339612322483,
+    "selection_method": "A1"
+  },
+  {
+    "id": "dog_037_c6a98dc46c6f911f",
+    "image_filename": "dog_037_c6a98dc46c6f911f.jpg",
+    "image_width": 1024,
+    "image_height": 768,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 32.884458549039074,
+      "y_min": 9.348273172115452,
+      "x_max": 69.83857527834905,
+      "y_max": 53.627638701746925
+    },
+    "iou_A1_A2": 0.9589336031147973,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "dog_038_9c7b837d3111dabd",
+    "image_filename": "dog_038_9c7b837d3111dabd.jpg",
+    "image_width": 1024,
+    "image_height": 827,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 23.544094279661017,
+      "y_min": 8.983050847457626,
+      "x_max": 57.08074020127118,
+      "y_max": 44.91525423728814
+    },
+    "iou_A1_A2": 0.8674989803100439,
+    "selection_method": "A1"
+  },
+  {
+    "id": "dog_039_f7bf1bbcc0e3a80f",
+    "image_filename": "dog_039_f7bf1bbcc0e3a80f.jpg",
+    "image_width": 683,
+    "image_height": 1024,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 16.151605708368503,
+      "y_min": 0.2939507836323665,
+      "x_max": 73.54397780579615,
+      "y_max": 57.72356570455996
+    },
+    "iou_A1_A2": 0.9294661686352961,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "dog_040_70c4719ceb83adaf",
+    "image_filename": "dog_040_70c4719ceb83adaf.jpg",
+    "image_width": 724,
+    "image_height": 1024,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 16.062264826378183,
+      "y_min": 6.552608562040517,
+      "x_max": 91.29076304685887,
+      "y_max": 85.89284447911496
+    },
+    "iou_A1_A2": 0.9619528751661416,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "dog_041_aa4ad708459aeafe",
+    "image_filename": "dog_041_aa4ad708459aeafe.jpg",
+    "image_width": 768,
+    "image_height": 1024,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 28.430292571842816,
+      "y_min": 12.97106588185235,
+      "x_max": 76.7058285858371,
+      "y_max": 50.86731437486703
+    },
+    "iou_A1_A2": 0.9142873470077226,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "dog_042_13d44d9cfdbe5ef2",
+    "image_filename": "dog_042_13d44d9cfdbe5ef2.jpg",
+    "image_width": 1024,
+    "image_height": 909,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 31.773776086913166,
+      "y_min": 7.260596175212159,
+      "x_max": 66.28074637880292,
+      "y_max": 42.77959009999291
+    },
+    "iou_A1_A2": 0.9201895394049692,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "dog_044_b68e0a5152581da0",
+    "image_filename": "dog_044_b68e0a5152581da0.jpg",
+    "image_width": 768,
+    "image_height": 1024,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 16.497175141242938,
+      "y_min": 11.525423728813559,
+      "x_max": 83.84180790960451,
+      "y_max": 55.932203389830505
+    },
+    "iou_A1_A2": 0.8807672843300918,
+    "selection_method": "A1"
+  },
+  {
+    "id": "dog_045_f7ac2b411972923b",
+    "image_filename": "dog_045_f7ac2b411972923b.jpg",
+    "image_width": 1024,
+    "image_height": 1024,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 32.20338983050847,
+      "y_min": 2.2033898305084745,
+      "x_max": 69.83050847457626,
+      "y_max": 53.898305084745765
+    },
+    "iou_A1_A2": 0.8312665412648476,
+    "selection_method": "A1"
+  },
+  {
+    "id": "dog_046_190f1dc4449a93fc",
+    "image_filename": "dog_046_190f1dc4449a93fc.jpg",
+    "image_width": 1024,
+    "image_height": 685,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 34.21658986175115,
+      "y_min": 13.950015136735175,
+      "x_max": 58.17972350230415,
+      "y_max": 55.627838137845195
+    },
+    "iou_A1_A2": 0.6075320724879821,
+    "selection_method": "A1"
+  },
+  {
+    "id": "dog_047_707866715cc12276",
+    "image_filename": "dog_047_707866715cc12276.jpg",
+    "image_width": 1024,
+    "image_height": 920,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 41.931543345034626,
+      "y_min": 8.012670496182304,
+      "x_max": 67.06933739185163,
+      "y_max": 34.41292579722479
+    },
+    "iou_A1_A2": 0.9028397125941154,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "dog_049_e2f3bab4edeb5633",
+    "image_filename": "dog_049_e2f3bab4edeb5633.jpg",
+    "image_width": 1024,
+    "image_height": 768,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 25.596500248209345,
+      "y_min": 1.4053376829066497,
+      "x_max": 88.86151691369406,
+      "y_max": 77.54650970380351
+    },
+    "iou_A1_A2": 0.9568178702619179,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "dog_052_f5d41132ffbad228",
+    "image_filename": "dog_052_f5d41132ffbad228.jpg",
+    "image_width": 683,
+    "image_height": 1024,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 2.099003462747953,
+      "y_min": 17.47039217076803,
+      "x_max": 99.15447813928581,
+      "y_max": 85.75869323688627
+    },
+    "iou_A1_A2": 0.9401160010985699,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "dog_055_6a558788243eb870",
+    "image_filename": "dog_055_6a558788243eb870.jpg",
+    "image_width": 1024,
+    "image_height": 680,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 16.716609938872907,
+      "y_min": 5.967064737331473,
+      "x_max": 67.00729448149117,
+      "y_max": 95.89580427708043
+    },
+    "iou_A1_A2": 0.9665632775543339,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "dog_056_2cedf2dcbcea2a55",
+    "image_filename": "dog_056_2cedf2dcbcea2a55.jpg",
+    "image_width": 771,
+    "image_height": 1024,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 27.013124051968607,
+      "y_min": 11.016949152542372,
+      "x_max": 89.36841873859615,
+      "y_max": 70.0
+    },
+    "iou_A1_A2": 0.8722760938426148,
+    "selection_method": "A1"
+  },
+  {
+    "id": "dog_057_fe3106780417a7fb",
+    "image_filename": "dog_057_fe3106780417a7fb.jpg",
+    "image_width": 1024,
+    "image_height": 683,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 29.02379538901368,
+      "y_min": 2.2851472626754834,
+      "x_max": 94.73773444931437,
+      "y_max": 73.88659362311564
+    },
+    "iou_A1_A2": 0.9139785082548344,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "dog_058_d76da5c1d62179e7",
+    "image_filename": "dog_058_d76da5c1d62179e7.jpg",
+    "image_width": 1024,
+    "image_height": 768,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 16.14406779661017,
+      "y_min": 10.16949152542373,
+      "x_max": 86.05932203389831,
+      "y_max": 75.42372881355931
+    },
+    "iou_A1_A2": 0.8397281365303728,
+    "selection_method": "A1"
+  },
+  {
+    "id": "dog_059_0deb1303b2c1b311",
+    "image_filename": "dog_059_0deb1303b2c1b311.jpg",
+    "image_width": 768,
+    "image_height": 1024,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 48.58757062146893,
+      "y_min": 25.76271186440678,
+      "x_max": 87.00564971751412,
+      "y_max": 49.32203389830509
+    },
+    "iou_A1_A2": 0.8114188859953272,
+    "selection_method": "A1"
+  },
+  {
+    "id": "dog_060_bd6577963b809683",
+    "image_filename": "dog_060_bd6577963b809683.jpg",
+    "image_width": 1024,
+    "image_height": 739,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 20.944627708141265,
+      "y_min": 11.859678982578068,
+      "x_max": 95.117973080736,
+      "y_max": 94.98688036309481
+    },
+    "iou_A1_A2": 0.9074630310319655,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "dog_061_37dc3e8479b70ba2",
+    "image_filename": "dog_061_37dc3e8479b70ba2.jpg",
+    "image_width": 1024,
+    "image_height": 1024,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 1.6745857267806066,
+      "y_min": 0.3636857906058672,
+      "x_max": 69.00503510389333,
+      "y_max": 58.73519608538402
+    },
+    "iou_A1_A2": 0.9400143776783569,
+    "selection_method": "mean_A1_A2"
+  },
+  {
+    "id": "dog_062_060a3eefdf1fdd38",
+    "image_filename": "dog_062_060a3eefdf1fdd38.jpg",
+    "image_width": 1024,
+    "image_height": 683,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 25,
+      "y_min": 10.018149799947372,
+      "x_max": 85.25345622119815,
+      "y_max": 89.47244131677135
+    },
+    "iou_A1_A2": 0.8866098482256454,
+    "selection_method": "A1"
+  },
+  {
+    "id": "dog_063_65d6ced2565724b1",
+    "image_filename": "dog_063_65d6ced2565724b1.jpg",
+    "image_width": 1024,
+    "image_height": 678,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 27.30414746543779,
+      "y_min": 11.31003357666218,
+      "x_max": 62.44239631336406,
+      "y_max": 83.17224691760804
+    },
+    "iou_A1_A2": 0.8360059954660433,
+    "selection_method": "A1"
+  },
+  {
+    "id": "dog_066_30f295255a8ed561",
+    "image_filename": "dog_066_30f295255a8ed561.jpg",
+    "image_width": 1024,
+    "image_height": 768,
+    "label": "pet_head",
+    "bbox_percent_xyxy": {
+      "x_min": 37.75423728813559,
+      "y_min": 0.1694915254237288,
+      "x_max": 73.09322033898306,
+      "y_max": 49.152542372881356
+    },
+    "iou_A1_A2": 0.8829559645757077,
+    "selection_method": "A1"
+  }
+]
